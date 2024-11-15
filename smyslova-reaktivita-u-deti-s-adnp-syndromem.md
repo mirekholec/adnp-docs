@@ -1,13 +1,11 @@
 ---
-title: "Test"
+title: "Smylová reaktivita u dětí s ADNP syndromem"
 author: "Miroslav Holec"
 date: "2024-10-31"
-description: "Test"
+description: "V roce 2021 byla zveřejněna studie, ve které autoři odhalují nová zjištění v oblasti smyslové reaktivity u dětí s ADNP syndromem. Ve studii se autoři zaměřili také na vztahy mezi symptomy, věkem, pohlavím a zkoumána byla i korelace s velmi častou mutací p.Tyr719*."
 ---
 
 V roce 2021 byla zveřejněna studie, ve které autoři odhalují nová  zjištění v oblasti smyslové reaktivity u dětí s ADNP syndromem. Ve  studii se autoři zaměřili také na vztahy mezi symptomy, věkem, pohlavím a zkoumána byla i korelace s velmi častou mutací p.Tyr719*.
-
-![Nějaký popis](img/favicon.png)
 
 Studie proběhla na skupině 22 jedinců s intelektuálním  postižením dle kritérií DSM-5. Polovina účastníků byla též  diagnostikována s poruchou autistického spektra dle ADOS-2 a ADI-R. Při  zkoumání hyperreaktivity, hyporeaktivity a vyhledávání smyslových  podnětů nebyly zjištěny rozdíly v chování v závislosti na věku ani  pohlaví. Oproti starším studiím nebylo prokázáno, že by varianta  p.Tyr719* způsobovala v této oblasti větší potíže.        
 
