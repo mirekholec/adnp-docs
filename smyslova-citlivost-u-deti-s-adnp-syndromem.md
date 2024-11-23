@@ -2,6 +2,7 @@
 title: "Smylová citlivost u dětí s ADNP syndromem"
 author: "Miroslav Holec"
 date: "2024-10-31"
+type: "clanek"
 description: "V roce 2021 byla zveřejněna studie, ve které autoři odhalují nová zjištění v oblasti smyslové citlivosti u dětí s ADNP syndromem. Ve studii se autoři zaměřili také na vztahy mezi symptomy, věkem, pohlavím a zkoumána byla i korelace s velmi častou mutací p.Tyr719*."
 ---
 
