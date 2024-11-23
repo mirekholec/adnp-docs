@@ -2,7 +2,7 @@
 title: "Projevy autismu u dětí s ADNP syndromem"
 author: "Miroslav Holec"
 date: "2024-10-30"
-type: "clanek"
+category: "clanek"
 description: "Jedna z prvních studií zaměřených na projevy patogenních mutací genu ADNP identifikovala u skupiny 78 jedinců znaky poruchy autistického spektra (PAS). Celkově se poruchy autistického spektra objevují u přibližně dvou třetin jedinců s ADNP syndromem. Chování a obtíže dětí s ADNP syndromem se liší od jiných jedinců s PAS."
 ---
 
