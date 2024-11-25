@@ -14,7 +14,7 @@ V roce 2016 založila Sandra Bedrosian Sermone ve spojených státech nadaci ADN
 
 V roce 2017 bylo součástí zmíněné skupiny přes 75 rodin, přičemž 54 z nich poskytlo kompletní informace relevantní pro zveřejnění ve studie. **Téměř plně prořezaný chrup potvrdilo 81% dotazovaných rodin s ADNP syndromem.** U 18 zdravých sourozenců zároveň tato anomálie nebyla pozorována. Rozdíly jsou signifikantní i v případech, kdy chrup není prořezán kompletně. Reprezentativní pacient se například dostavil k zubní prohlídce ve věku 13 měsíců a měl kompletně prořezáno 16 zubů. Jeho dvojče bez ADNP syndromu mělo ve stejný den pouze 8 zubů. Studie neprokázala, že by na rychlost erupce zubů měla vliv varianta mutace ADNP genu. 
 
-Studie také zachytila případy **předčasného prořezání prvních stálých molárů**. První stálý molár byl například zachycen přibližně ve věku 4 let, přičemž u zdravých dětí dochází k prořezání zpravidla mezi 6-7 rokem. Popsané anomálie jsou typickým příkladem narušení buněčných procesů a regulace genů, které způsobují patogenní mutace v genu ADNP. V tomto případě se zdá, že defektní ADNP protein reguluje rodinu BMP genů, které mají vliv na čas prořezání zubů.
+Studie také zachytila případy **předčasného prořezání prvních stálých molárů**. První stálý molár byl například zachycen u chlapce ve věku přibližně 4 let. Popsané anomálie jsou typickým příkladem narušení buněčných procesů a regulace genů, které způsobují patogenní mutace v genu ADNP. V tomto případě se zdá, že defektní ADNP protein reguluje rodinu BMP genů, které mají vliv na čas prořezání zubů.
 
 ## Závěr
 
