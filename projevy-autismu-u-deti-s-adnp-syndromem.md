@@ -20,6 +20,6 @@ ADNP syndrom bývá v současné době diagnostikován jen vzácně u jedinců, 
 
 ### Zdroje
 
-[Van  Dijck A, Vandeweyer G, Kooy F. ADNP-Related Disorder. 2016 Apr 7  [Updated 2022 Oct 6]. In: Adam MP, Feldman J, Mirzaa GM, et al.,  editors. GeneReviews® [Internet]. Seattle (WA): University of  Washington, Seattle; 1993-2024. Available from:  https://www.ncbi.nlm.nih.gov/books/NBK355518](https://www.ncbi.nlm.nih.gov/books/NBK355518)
+[Van  Dijck A, Vandeweyer G, Kooy F. ADNP-Related Disorder. 2016 Apr 7  [Updated 2022 Oct 6]. In: Adam MP, Feldman J, Mirzaa GM, et al.,  editors. GeneReviews® [Internet]. Seattle (WA): University of  Washington, Seattle; 1993-2024. Available from:  https://www.ncbi.nlm.nih.gov/books/NBK355518](https://www.ncbi.nlm.nih.gov/books/NBK355518/pdf/Bookshelf_NBK355518.pdf)
 
-[Arnett, A. B., Rhoads, C. L., Hoekzema, K., Turner, T. N., Gerdts, J., Wallace, A. S., Bedrosian‐Sermone, S., Eichler, E. E., & Bernier, R. A. (2018). The autism spectrum phenotype in ADNP syndrome. In Autism Research (Roč. 11, Issue 9, s. 1300–1310). Wiley. https://doi.org/10.1002/aur.1980](https://onlinelibrary.wiley.com/doi/10.1002/aur.1980)
+[Arnett, A. B., Rhoads, C. L., Hoekzema, K., Turner, T. N., Gerdts, J., Wallace, A. S., Bedrosian‐Sermone, S., Eichler, E. E., & Bernier, R. A. (2018). The autism spectrum phenotype in ADNP syndrome. In Autism Research (Roč. 11, Issue 9, s. 1300–1310). Wiley. https://doi.org/10.1002/aur.1980](https://onlinelibrary.wiley.com/doi/10.1002/aur.1980) (článek není dostupný zdarma)

@@ -27,7 +27,5 @@ Studie také zachytila případy **předčasného prořezání prvních stálýc
 ### Zdroje
 
 - [Krejčí, P. (2021). Development and eruption of deciduous dentition. In Pediatrie pro praxi (Roč. 21, Issue 6, s. 400–404). Solen s.r.o. https://doi.org/10.36290/ped.2020.083](https://www.pediatriepropraxi.cz/pdfs/ped/2020/06/03.pdf) 
-
-- [http://www.adnpfoundation.org](http://www.adnpfoundation.org)
-
 - [Gozes, I., Van Dijck, A., Hacohen-Kleiman, G., Grigg, I., Karmon, G., Giladi, E., Eger, M., Gabet, Y., Pasmanik-Chor, M., Cappuyns, E., Elpeleg, O., Kooy, R. F., & Bedrosian-Sermone, S. (2017). Premature primary tooth eruption in cognitive/motor-delayed ADNP-mutated children. In Translational Psychiatry (Roč. 7, Issue 2, s. e1043–e1043). Springer Science and Business Media LLC. https://doi.org/10.1038/tp.2017.27](https://www.nature.com/articles/tp201727.pdf) 
+- [http://www.adnpfoundation.org](http://www.adnpfoundation.org)
