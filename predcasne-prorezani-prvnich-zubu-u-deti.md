@@ -6,8 +6,6 @@ category: "clanek"
 description: "U zdravých dětí se dočasný chrup prořezává od 6. do 30. měsíce života dítěte, nicméně časové hledisko je velmi variabilní. Mezi pohlavími nejsou signifikatní rozdíly a vliv na prořezání mají mimo jiné i nutriční a genetické faktory. První moláry se objevují průměrně ve 14-18 měsících věku a druhé moláry ve 22-32 měsících. V případě ADNP syndromu bylo zjištěno, že u mnoha dětí se před dovršením 12 měsíců prořezal kompletně celý chrup."
 ---
 
-# Předčasné prořezání prvních zubů u dětí
-
 U zdravých dětí se dočasný chrup prořezává od 6. do 30. měsíce života dítěte, nicméně časové hledisko je velmi variabilní. Mezi pohlavími nejsou signifikatní rozdíly a vliv na prořezání mají mimo jiné i nutriční a genetické faktory. První moláry se objevují průměrně ve 14-18 měsících věku a druhé moláry ve 22-32 měsících. V případě ADNP syndromu bylo zjištěno, že u mnoha dětí se před dovršením 12 měsíců prořezal kompletně celý chrup.
 
 ## Kompletní chrup v prvním roce života
