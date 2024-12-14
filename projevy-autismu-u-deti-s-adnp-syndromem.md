@@ -3,10 +3,10 @@ title: "Projevy autismu u dětí s ADNP syndromem"
 author: "Miroslav Holec"
 date: "2024-10-30"
 category: "clanek"
-description: "Jedna z prvních studií zaměřených na projevy patogenních mutací genu ADNP identifikovala u skupiny 78 jedinců znaky poruchy autistického spektra (PAS). Celkově se poruchy autistického spektra objevují u přibližně dvou třetin jedinců s ADNP syndromem. Chování a obtíže dětí s ADNP syndromem se liší od jiných jedinců s PAS."
+description: "Dle jedné z prvních studií zaměřených na poruchy autistického spektra u dětí s ADNP syndromem se PAS objevuje u dvou třetin jedinců. Chování a obtíže dětí s ADNP syndromem se však liší od jedinců s PAS bez známé genetické příčiny."
 ---
 
-Jedna z prvních studií zaměřených na projevy patogenních mutací genu  ADNP identifikovala u skupiny 78 jedinců znaky poruchy autistického  spektra (PAS). Celkově se poruchy autistického spektra objevují u  přibližně dvou třetin jedinců s ADNP syndromem. Chování a obtíže dětí s  ADNP syndromem se liší od jiných jedinců s PAS.
+Jedna z prvních studií zaměřených na projevy patogenních mutací genu  ADNP identifikovala u skupiny 78 jedinců znaky poruchy autistického spektra (PAS). Celkově se poruchy autistického spektra objevují u přibližně dvou třetin jedinců s ADNP syndromem. Chování a obtíže dětí s  ADNP syndromem se liší od jiných jedinců s PAS.
 
 U dětí s ADNP syndromem je nápadné zejména stereotypní  chování a narušení sociální interakce. S dalšími výzkumy a lepším  chápáním projevů ADNP syndromu se zdá, že **mnoho rysů přisuzovaných autismu má původ spíše ve špatné funkci genu ADNP**. Zejména zhoršená schopnost učení a paměti odpovídá úrovni sociálních obtíží a verbálního postižení.
 
