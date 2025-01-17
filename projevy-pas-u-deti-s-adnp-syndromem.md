@@ -1,5 +1,5 @@
 ---
-title: "Projevy autismu u dětí s ADNP syndromem"
+title: "Projevy poruchy autistického spektra u dětí s ADNP syndromem"
 author: "Miroslav Holec"
 date: "2024-10-30"
 category: "clanek"
@@ -8,9 +8,9 @@ description: "Dle jedné z prvních studií zaměřených na poruchy autistické
 
 Jedna z prvních studií zaměřených na projevy patogenních mutací genu  ADNP identifikovala u skupiny 78 jedinců znaky poruchy autistického spektra (PAS). Celkově se poruchy autistického spektra objevují u přibližně dvou třetin jedinců s ADNP syndromem. Chování a obtíže dětí s  ADNP syndromem se liší od jiných jedinců s PAS.
 
-U dětí s ADNP syndromem je nápadné zejména stereotypní  chování a narušení sociální interakce. S dalšími výzkumy a lepším  chápáním projevů ADNP syndromu se zdá, že **mnoho rysů přisuzovaných autismu má původ spíše ve špatné funkci genu ADNP**. Zejména zhoršená schopnost učení a paměti odpovídá úrovni sociálních obtíží a verbálního postižení.
+U dětí s ADNP syndromem je nápadné zejména stereotypní  chování a narušení sociální interakce. S dalšími výzkumy a lepším  chápáním projevů ADNP syndromu se zdá, že **mnoho rysů přisuzovaných PAS má původ spíše ve špatné funkci genu ADNP**. Zejména zhoršená schopnost učení a paměti odpovídá úrovni sociálních obtíží a verbálního postižení.
 
-Dosud poslední studie zaměřená na porovnání jedinců s  autismem bez známé genetické příčiny a jedinců s ADNP syndromem, kteří  mají diagnostikovaný autismus dle manuálu ADOS-2 prokázala několik  významných odlišností. Především u jedinců s ADNP syndromem bylo  odhaleno vždy nižší IQ skóre. **Z hlediska sociální komunikace děti s ADNP syndromem více používali znakový jazyk nebo úsměv a mimiku za účelem komunikace**. Na druhou stranu se u jedinců s ADNP syndromem vyskytovalo shodně zvláštní sociální chování, při kterém se děti **stranily svých vrstevníků, zatímco u dospělých měly tendenci stát v těsné blízkosti a dotýkat se jich**. Děti s ADNP syndromem, které se nevešly dle diagnostického manuálu mezi jedince s autismem pak vykazovali pravidelnější oční kontakt, radost  během interakcí a snažili se získat pozornost navazováním očního  kontaktu.
+Dosud poslední studie zaměřená na porovnání jedinců s PAS bez známé genetické příčiny a jedinců s ADNP syndromem, kteří  mají diagnostikovanou PAS dle manuálu ADOS-2 prokázala několik  významných odlišností. Především u jedinců s ADNP syndromem bylo  odhaleno vždy nižší IQ skóre. **Z hlediska sociální komunikace děti s ADNP syndromem více používali znakový jazyk nebo úsměv a mimiku za účelem komunikace**. Na druhou stranu se u jedinců s ADNP syndromem vyskytovalo shodně zvláštní sociální chování, při kterém se děti **stranily svých vrstevníků, zatímco u dospělých měly tendenci stát v těsné blízkosti a dotýkat se jich**. Děti s ADNP syndromem, které se nevešly dle diagnostického manuálu mezi jedince s PAS pak vykazovali pravidelnější oční kontakt, radost  během interakcí a snažili se získat pozornost navazováním očního  kontaktu.
 
 U jedinců s ADNP syndromem se ve velké míře vyskytuje  vyhledávání senzorických podnětů. Velmi oblíbená je u dětí s ADNP  syndromem voda. Pozorováno je i její nadměrné pití. **Děti s ADNP syndromem si pravidelně strkají nejedlé předměty do úst a olizují je. Pozorováno je též časté olizování rukou**. V rámci repetetivního chování bylo nejčastěji pozorováno mávání rukama. Též velmi časté je vyhledávání zvukových podnětů. 
 

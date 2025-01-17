@@ -24,7 +24,7 @@ Na základě nových zjištění lze definovat typické vzorce chování u dět�
 
 Hyporeaktivita byla přítomná u poloviny jedinců a projevovala se v 81% případech **sníženou reakcí na bolest a vysokým prahem citlivosti na teplotu**. Testování bylo provedeno pomocí horkých a studených zábalů. Hyporeaktivita byla pozorována v menší míře na některé smyslové podněty v oblasti zraku.
 
-Výsledky studie dále potvrdily starší výzkumy, které pozorují, že **senzorické symptomy zůstávají stabilní s věkem**, podobně jako u dětí s autismem, a naznačují, že děti s vyššími  kognitivními schopnostmi nebo adaptivním chováním a starším věkem  vykazují méně abnormálních reakcí na smyslové podněty.
+Výsledky studie dále potvrdily starší výzkumy, které pozorují, že **senzorické symptomy zůstávají stabilní s věkem**, podobně jako u dětí s poruchou autistického spektra, a naznačují, že děti s vyššími  kognitivními schopnostmi nebo adaptivním chováním a starším věkem  vykazují méně abnormálních reakcí na smyslové podněty.
 
 ## Praktické příklady
 
