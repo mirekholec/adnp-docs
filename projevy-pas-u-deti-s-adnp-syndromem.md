@@ -1,5 +1,5 @@
 ---
-title: "Projevy poruchy autistického spektra u dětí s ADNP syndromem"
+title: "Poruchy autistického spektra u dětí s ADNP syndromem"
 author: "Miroslav Holec"
 date: "2024-10-30"
 category: "clanek"
