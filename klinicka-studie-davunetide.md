@@ -6,13 +6,13 @@ category: "clanek"
 description: "Přinášíme základní informace o klinické studii léku Davunetide a odpovídáme na nejčastější otázky spojené s ADNP syndromem a jeho léčbou."
 ---
 
-V České republice jsou diagnostikovány 4 děti s ADNP syndromem, které jsou zároveň členem ADNP asociace. Onemocnění doprovází lehké až těžké mentální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. 
+V České republice jsou diagnostikovány 4 děti s ADNP syndromem, které jsou zároveň členem ADNP asociace. Syndrom doprovází lehké až těžké mentální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. 
 
 ## ADNP syndrom
 
 ADNP syndrom (též Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené mutací v genu ADNP. Ve většině případů vzniká de novo mutací, tedy nově u daného jedince, bez předchozího výskytu v rodině. V současné době je známo několik desítek patogenních mutací, které lze rozdělit do dvou odlišných epigenetických profilů.
 
-Diagnostika ADNP syndromu vyžaduje genetické testování, konkrétně cílené sekvenování ADNP genu. Alternativně může diagnózu podpořit metylační analýza, která identifikuje specifickou epigenetickou stopu (episignaturu) spojenou s ADNP syndromem, avšak toto vyšetření zatím není v České republice dostupné.
+Diagnostika ADNP syndromu vyžaduje genetické testování, konkrétně cílené sekvenování ADNP genu. Alternativně může diagnózu podpořit metylační analýza, která identifikuje specifickou epigenetickou stopu spojenou s ADNP syndromem, avšak toto vyšetření zatím není v České republice dostupné.
 
 > Screening ADNP syndromu v ČR zatím nefunguje efektivně, což vede k výraznému poddiagnostikování. 
 
@@ -60,7 +60,7 @@ Podezření na genetickou poruchu obvykle vysloví neurolog, který doporučí k
 
 ### Kolik dětí s ADNP syndromem je v České republice celkově?
 
-Odhaduje se, že v České republice by mohlo mít ADNP syndrom přibližně 35 dětí do 18 let. Celkový počet lidí s tímto onemocněním by mohl být mezi 130 až 150. Přesto naše asociace zatím zná pouze 5 diagnostikovaných případů.
+Odhaduje se, že v České republice by mohlo mít ADNP syndrom přibližně 35 dětí do 18 let. Celkový počet lidí s tímto syndromem by mohl být mezi 130 až 150. Přesto naše asociace zatím zná pouze 5 diagnostikovaných případů.
 
 ### Je možné, že mé dítě má ADNP syndrom, i když mu nebyla diagnostikována žádná genetická porucha?
 
