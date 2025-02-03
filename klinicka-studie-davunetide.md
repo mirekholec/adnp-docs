@@ -36,7 +36,7 @@ Je důležité zdůraznit, že zatímco u neurodegenerativních poruch se lék p
 
 Výzkumný tým Galilee CBR ve spolupráci s univerzitou v Antwerpách nyní spouští klinickou studii v několika klinikách po celém světě. 
 
-> ADNP asociace usilovala o zapojení některé z českých klinik do studie léku, ale odmítání všemi zařízeními neumožnilo studii v ČR realizovat.
+> ADNP asociace usilovala o zapojení některé z českých klinik do studie léku, ale nezájem klinik nám neumožnil studii v ČR realizovat.
 
 Rodiny budou muset za léčbou vycestovat do některé země Evropské unie. ADNP asociace je nyní ve spojení s belgickými koordinátory a usiluje o vstup do studie v Polsku a Německu.
 
