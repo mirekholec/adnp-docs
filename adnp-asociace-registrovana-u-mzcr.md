@@ -1,7 +1,7 @@
 ---
 title: "Jsme registrováni jako organizace pro pacienty"
 author: "Miroslav Holec"
-date: "2044-12-18"
+date: "2024-12-18"
 category: "aktualita"
 description: ""
 ---

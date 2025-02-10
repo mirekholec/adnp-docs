@@ -1,7 +1,7 @@
 ---
 title: "Stali jsme se členem ČAVO"
 author: "Miroslav Holec"
-date: "2025-01-094"
+date: "2025-01-09"
 category: "aktualita"
 description: ""
 ---
