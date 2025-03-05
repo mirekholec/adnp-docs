@@ -6,7 +6,7 @@ category: "clanek"
 description: "Přinášíme základní informace o klinické studii léku Davunetide a odpovídáme na nejčastější otázky spojené s ADNP syndromem a jeho léčbou."
 ---
 
-V České republice jsou diagnostikovány 4 děti s ADNP syndromem, které jsou zároveň členem ADNP asociace. Syndrom doprovází lehké až těžké mentální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. 
+V České republice je diagnostikováno 5 dětí s ADNP syndromem, které jsou zároveň členem ADNP asociace. Syndrom doprovází lehké až těžké mentální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. 
 
 ## ADNP syndrom
 
