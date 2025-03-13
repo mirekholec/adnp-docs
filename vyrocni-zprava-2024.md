@@ -3,7 +3,7 @@ title: "Výroční zpráva 2024"
 author: "Miroslav Holec"
 date: "2025-01-14"
 category: "aktualita"
-cssclass: ""
+css: ""
 description: ""
 ---
 
