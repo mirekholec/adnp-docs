@@ -3,6 +3,7 @@ title: "Poruchy autistického spektra u dětí s ADNP syndromem"
 author: "Miroslav Holec"
 date: "2024-10-30"
 category: "clanek"
+cssclass: ""
 description: "Dle jedné z prvních studií zaměřených na poruchy autistického spektra u dětí s ADNP syndromem se PAS objevuje u dvou třetin jedinců. Chování a obtíže dětí s ADNP syndromem se však liší od jedinců s PAS bez známé genetické příčiny."
 ---
 

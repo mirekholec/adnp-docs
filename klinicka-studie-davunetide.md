@@ -3,6 +3,7 @@ title: "Klinická studie Davunetide"
 author: "Miroslav Holec"
 date: "2025-02-03"
 category: "clanek"
+cssclass: "extra"
 description: "Přinášíme základní informace o klinické studii léku Davunetide a odpovídáme na nejčastější otázky spojené s ADNP syndromem a jeho léčbou."
 ---
 
@@ -112,21 +113,21 @@ Přesná pravděpodobnost účinnosti zatím není stanovena, ale preklinické s
 
 ### Zdroje
 
-Gozes, I., Steingart, R. A., & Spier, A. D. (2004). NAP Mechanisms of Neuroprotection. In Journal of
+[Gozes, I., Steingart, R. A., & Spier, A. D. (2004). NAP Mechanisms of Neuroprotection. In Journal of
 Molecular Neuroscience (Roč. 24, Issue 1, s. 067–072). Springer Science and Business Media LLC.
-https://doi.org/10.1385/jmn:24:1:067
+https://doi.org/10.1385/jmn:24:1:067](https://doi.org/10.1385/jmn:24:1:067)
 
-Helsmoortel, C., Vulto-van Silfhout, A. T., Coe, B. P., Vandeweyer, G., Rooms, L., van den Ende, J.,
+[Helsmoortel, C., Vulto-van Silfhout, A. T., Coe, B. P., Vandeweyer, G., Rooms, L., van den Ende, J.,
 Schuurs-Hoeijmakers, J. H. M., Marcelis, C. L., Willemsen, M. H., Vissers, L. E. L. M., Yntema, H. G.,
 Bakshi, M., Wilson, M., Witherspoon, K. T., Malmgren, H., Nordgren, A., Annerén, G., Fichera, M.,
 Bosco, P., … Van der Aa, N. (2014). A SWI/SNF-related autism syndrome caused by de novo
 mutations in ADNP. In Nature Genetics (Roč. 46, Issue 4, s. 380–384). Springer Science and Business
-Media LLC. https://doi.org/10.1038/ng.2899
+Media LLC. https://doi.org/10.1038/ng.2899](https://doi.org/10.1038/ng.2899)
 
-Gozes, I. (2020). The ADNP Syndrome and CP201 (NAP) Potential and Hope. In Frontiers in Neurology
-(Roč. 11). Frontiers Media SA. https://doi.org/10.3389/fneur.2020.608444
+[Gozes, I. (2020). The ADNP Syndrome and CP201 (NAP) Potential and Hope. In Frontiers in Neurology
+(Roč. 11). Frontiers Media SA. https://doi.org/10.3389/fneur.2020.608444](https://doi.org/10.3389/fneur.2020.608444)
 
-Ganaiem, M., Gildor, N. D., Shazman, S., Karmon, G., Ivashko-Pachima, Y., & Gozes, I. (2023). NAP
+[Ganaiem, M., Gildor, N. D., Shazman, S., Karmon, G., Ivashko-Pachima, Y., & Gozes, I. (2023). NAP
 (Davunetide): The Neuroprotective ADNP Drug Candidate Penetrates Cell Nuclei Explaining
 Pleiotropic Mechanisms. In Cells (Roč. 12, Issue 18, s. 2251). MDPI AG.
-https://doi.org/10.3390/cells12182251
+https://doi.org/10.3390/cells12182251](https://doi.org/10.3390/cells12182251)

@@ -3,6 +3,7 @@ title: "Informace o ADNP syndromu na Wikipedii"
 author: "Miroslav Holec"
 date: "2024-11-16"
 category: "aktualita"
+cssclass: ""
 description: ""
 ---
 
