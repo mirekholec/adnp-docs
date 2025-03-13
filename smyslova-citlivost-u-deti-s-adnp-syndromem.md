@@ -6,9 +6,11 @@ category: "clanek"
 description: "V roce 2021 byla zveřejněna studie, ve které autoři odhalují nová zjištění v oblasti smyslové citlivosti u dětí s ADNP syndromem. Ve studii se autoři zaměřili také na vztahy mezi symptomy, věkem, pohlavím a zkoumána byla i korelace s mutací p.Tyr719*."
 ---
 
-V roce 2021 byla zveřejněna studie, ve které autoři odhalují nová zjištění v oblasti smyslové citlivosti u dětí s ADNP syndromem. Ve  studii se autoři zaměřili také na vztahy mezi symptomy, věkem, pohlavím a zkoumána byla i korelace s velmi častou mutací p.Tyr719*.
+V roce 2021 byla zveřejněna studie, která přinesla nové poznatky o smyslové citlivosti u dětí s ADNP syndromem. Ve studii se autoři zaměřili na vztahy mezi senzorickými symptomy, věkem a pohlavím pacientů, přičemž analyzovali také možnou korelaci s častou mutací p.Tyr719*.
 
-Studie proběhla na skupině 22 jedinců s intelektuálním postižením dle kritérií DSM-5. Polovina účastníků byla též  diagnostikována s poruchou autistického spektra dle ADOS-2 a ADI-R. Při  zkoumání hyperreaktivity, hyporeaktivity a vyhledávání smyslových podnětů nebyly zjištěny rozdíly v chování v závislosti na věku ani pohlaví. Oproti starším studiím nebylo prokázáno, že by varianta  p.Tyr719* způsobovala v této oblasti větší potíže.        
+Studie zahrnovala 22 jedinců s intelektuálním postižením podle kritérií DSM-5. U poloviny účastníků byla zároveň potvrzena porucha autistického spektra pomocí standardizovaných diagnostických nástrojů ADOS-2 a ADI-R. Při hodnocení senzorických projevů (hyperreaktivity, hyporeaktivity a vyhledávání smyslových podnětů) nebyly zjištěny statisticky významné rozdíly v závislosti na věku ani pohlaví účastníků. Na rozdíl od předchozích obecných výzkumů nebylo prokázáno, že by častá varianta p.Tyr719* byla spojena s výraznějšími problémy v oblasti smyslového zpracování.
+
+Výsledky tedy naznačují, že senzorické obtíže představují společný profil u dětí s ADNP syndromem bez významných rozdílů mezi podskupinami pacientů.
 
 ## Mezi nejčastější projevy patří
 
@@ -22,13 +24,13 @@ Na základě nových zjištění lze definovat typické vzorce chování u dět�
 - přikládání hlučných předmětů k uším
 - zvýšený zájem o světelné zdroje a vodu
 
-Hyporeaktivita byla přítomná u poloviny jedinců a projevovala se v 81% případech **sníženou reakcí na bolest a vysokým prahem citlivosti na teplotu**. Testování bylo provedeno pomocí horkých a studených zábalů. Hyporeaktivita byla pozorována v menší míře na některé smyslové podněty v oblasti zraku.
+Hyporeaktivita byla přítomná u poloviny jedinců a projevovala se v 81% případech **sníženou reakcí na bolestivé podněty a zvýšeným prahem citlivosti na teplotní změny**. Testování bylo provedeno pomocí aplikace horkých a studených zábalů na kůži. Hyporeaktivita byla v menší míře pozorována také na některé zrakové smyslové podněty.
 
-Výsledky studie dále potvrdily starší výzkumy, které pozorují, že **senzorické symptomy zůstávají stabilní s věkem**, podobně jako u dětí s poruchou autistického spektra, a naznačují, že děti s vyššími  kognitivními schopnostmi nebo adaptivním chováním a starším věkem  vykazují méně abnormálních reakcí na smyslové podněty.
+Výsledky studie dále potvrdily závěry starších výzkumů, které dokládají, že **senzorické symptomy zůstávají s věkem stabilní** (podobně jako u dětí s poruchou autistického spektra). Zároveň výsledky naznačují, že děti s rozvinutějšími kognitivními schopnostmi nebo adaptivním chováním a děti ve vyšším věku vykazují méně abnormálních reakcí na smyslové podněty.
 
 ## Praktické příklady
 
-Vkládání nejedlých předmětů do úst zahrnuje hračky, ostré  tvrdé předměty, rostliny nebo běžně se vyskytující předměty v přírodě  (kameny, písek, dřevo). Jedinec olizuje větší předměty nebo přejíždí  zuby o hrany dřevěného nábytku. Nepreferované potraviny může sníst a  následně opakovaně vyplivovat. Opakující se chování je pozorováno u  předmětů, které vydávají zvuky: Může se jednat například o vypínače,  vrzající dveře nebo zvuky vydané nárazem předmětů o sebe. Jedinci s ADNP syndromem preferují zvukové a světelné hračky, které poté opakovaně zapínají. Do vyhledávání zvuků patří i repetetivní poslech hudby nebo  zpěvu. Též vyhledávají vodu v různé podobě (koupání, sahání do hrnečků s vodou, kaluže).
+Vkládání nejedlých předmětů do úst zahrnuje hračky, ostré tvrdé předměty, rostliny nebo běžně se vyskytující předměty v přírodě  (kameny, písek, dřevo). Jedinec olizuje větší předměty nebo přejíždí  zuby o hrany dřevěného nábytku. Nepreferované potraviny může sníst a následně opakovaně vyplivovat. Opakující se chování je pozorováno u předmětů, které vydávají zvuky: Může se jednat například o vypínače, vrzající dveře nebo zvuky vydané nárazem předmětů o sebe. Jedinci s ADNP syndromem preferují zvukové a světelné hračky, které poté opakovaně zapínají. Do vyhledávání zvuků patří i repetetivní poslech hudby nebo zpěvu. Dalším příkladem je intenzivní zájem o vodu v různých podobách. Děti mají rádi koupání, sahají do hrnečků s vodou nebo jsou fascinovány kalužemi. 
 
 ### Zdroje
 

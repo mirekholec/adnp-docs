@@ -6,17 +6,17 @@ category: "clanek"
 description: "Přinášíme základní informace o klinické studii léku Davunetide a odpovídáme na nejčastější otázky spojené s ADNP syndromem a jeho léčbou."
 ---
 
-V České republice je diagnostikováno 5 dětí s ADNP syndromem, které jsou zároveň členem ADNP asociace. Syndrom doprovází lehké až těžké mentální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. 
+V České republice je k začátku roku 2025 diagnostikováno 5 dětí s ADNP syndromem, které jsou zároveň členem ADNP asociace. Syndrom doprovází lehké až těžké mentální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. 
 
 ## ADNP syndrom
 
-ADNP syndrom (též Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené mutací v genu ADNP. Ve většině případů vzniká de novo mutací, tedy nově u daného jedince, bez předchozího výskytu v rodině. V současné době je známo několik desítek patogenních mutací, které lze rozdělit do dvou odlišných epigenetických profilů.
+ADNP syndrom (dříve též Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené mutací v genu ADNP. Ve většině případů vzniká de novo mutací, tedy nově u daného jedince, bez předchozího výskytu v rodině. V současné době je známo několik desítek patogenních mutací, které lze rozdělit do dvou epigenetických profilů.
 
-Diagnostika ADNP syndromu vyžaduje genetické testování, konkrétně cílené sekvenování ADNP genu. Alternativně může diagnózu podpořit metylační analýza, která identifikuje specifickou epigenetickou stopu spojenou s ADNP syndromem, avšak toto vyšetření zatím není v České republice dostupné.
+Diagnostika ADNP syndromu vyžaduje genetické testování, konkrétně cílené sekvenování ADNP genu. Alternativně může diagnózu potvrdit metylační analýza, která identifikuje specifickou epigenetickou stopu spojenou s ADNP syndromem, avšak toto vyšetření zatím není v České republice standardně dostupné.
 
 > Screening ADNP syndromu v ČR zatím nefunguje efektivně, což vede k výraznému poddiagnostikování. 
 
-Na základě odhadované prevalence tohoto onemocnění tvoří dosud diagnostikované případy pravděpodobně pouze 4 % všech existujících pacientů, což naznačuje, že většina dětí a dospělých s tímto syndromem zůstává neodhalena.
+Na základě odhadované prevalence tvoří dosud diagnostikované případy pravděpodobně jen 4 % všech pacientů, což znamená, že většina dětí i dospělých s tímto syndromem zůstává nediagnostikována.
 
 - [Co je ADNP syndrom](https://adnpasociace.cz/adnp-syndrom)
 - [Projevy ADNP syndromu](https://adnpasociace.cz/adnp-syndrom/projevy)
@@ -24,7 +24,7 @@ Na základě odhadované prevalence tohoto onemocnění tvoří dosud diagnostik
 
 ## Léčba
 
-Kauzální léčba syndromu neexistuje, ale do fáze klinické studie vstupuje nadějný lék Davunetide. Jedná se o syntetickou variantu peptidu NAP, který je odvozen od ADNP proteinu. Tento peptid má klíčovou neuroprotektivní roli a zajišťuje ochranu neuronů před neurodegenerativními procesy. Výzkum probíhá více než 15 let a NAP již prokázal svou bezpečnost u několika set pacientů s progresivní supranukleární obrnou. Výzkum se nejprve zaměřoval na neurodegenerativní onemocnění, ale u starších pacientů se již nepodařilo zvrátit neurodegenerativní procesy (rozsáhlé taupatie), které byly též popsány během pitvy malého chlapce s ADNP syndromem. 
+Kauzální léčba syndromu neexistuje, ale do klinického hodnocení vstupuje nadějný lék Davunetide – syntetická varianta peptidu NAP odvozeného z proteinu ADNP. Tento peptid má klíčovou neuroprotektivní roli a zajišťuje ochranu neuronů před neurodegenerativními procesy. Výzkum probíhá více než 15 let a NAP již prokázal svou bezpečnost u několika set pacientů s progresivní supranukleární obrnou. Výzkum se nejprve zaměřoval na neurodegenerativní onemocnění, ale u starších pacientů se již nepodařilo zvrátit neurodegenerativní procesy, rozsáhlé taupatie, které byly též popsány během pitvy malého chlapce s ADNP syndromem. 
 
 Preklinické studie navržené pro léčbu dětí s ADNP syndromem prokázaly, že dodáním funkčního peptidu NAP došlo ke stabilizaci neuronů a k obnově jejich ochrany. Prokázalo se zlepšení paměti, kognitivních schopností a dále byly zaznamenány dalšı́ pozitivnı́ účinky. Patřı́ mezi ně zlepšenı́ hojenı́ ran, snı́ženı́ kožnı́ch problémů a u některých jedinců i normalizace tloušťky kůže, která bývá u dětı́ s ADNP syndromem tenčı́. Dvě studie dále naznačily, že lék může pomoci zlepšit svalovou slabost.
 
@@ -32,19 +32,19 @@ Je důležité zdůraznit, že zatímco u neurodegenerativních poruch se lék p
 
 - [EMA, orphan designation](https://ec.europa.eu/health/documents/community-register/html/o3007.htm)
 
-## Klinická studie
+## Klinické hodnocení
 
-Výzkumný tým Galilee CBR ve spolupráci s univerzitou v Antwerpách nyní spouští klinickou studii v několika klinikách po celém světě. 
+Výzkumný tým Galilee CBR a sponzor AdRes EU B.V. ve spolupráci s univerzitou v Antwerpách nyní spouští klinické hodnocení v několika klinikách po celém světě. 
 
-> ADNP asociace usilovala o zapojení některé z českých klinik do studie léku, ale nezájem klinik nám neumožnil studii v ČR realizovat.
+> ADNP asociace usilovala o zapojení některé z českých klinik do studie léku, ale nezájem klinik nám neumožnil klinické hodnocení v ČR realizovat.
 
-Rodiny budou muset za léčbou vycestovat do některé země Evropské unie. ADNP asociace je nyní ve spojení s belgickými koordinátory a usiluje o vstup do studie v Polsku a Německu.
+Rodiny budou muset za léčbou vycestovat do některé země Evropské unie. ADNP asociace je nyní ve spojení s belgickými koordinátory a usiluje o vstup do klinického hodnocení v Polsku a Německu.
 
-Do klinické studie mohou vstoupit děti ve věku od 3 do 17 let. V první fázi bude látka podávána jen dětem ve věku od 6 let.  Po uspokojivých testech bezpečnosti se následně látka začne podávat i dětem ve věku od 3 let. Tento postup je běžný v klinických studiı́ch, protože zajišťuje postupný a bezpečný přı́stup k testovánı́ léčby na citlivějšı́ch věkových skupinách. 
+Do klinického hodnocení mohou vstoupit děti ve věku od 3 do 17 let. V první fázi bude látka podávána jen dětem ve věku od 6 let.  Po uspokojivých testech bezpečnosti se látka začne podávat i dětem ve věku od 3 let. Tento postup je běžný v klinických studiı́ch, protože zajišťuje postupný a bezpečný přı́stup k testovánı́ léčby na citlivějšı́ch věkových skupinách. 
 
 > Dvojitě zaslepená studie bude probíhat přibližně 48 týdnů, během kterých budou rodiny navštěvovat vybranou kliniku a dostávat nosní aplikátor se účinnou látkou. 
 
-V přı́padě, že bude léčba úspěšná , farmaceutická společnost má v plánu doručit účinnou látku všem účastnı́kům studie do doby, než se přı́pravek schválı́ a bude uveden na trh.
+V přı́padě, že bude léčba úspěšná , farmaceutická společnost má v plánu doručit účinnou látku všem účastnı́kům klinického hodnocení do doby, než se přı́pravek schválı́ a bude uveden na trh.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MgOby-bqAlU?si=KBlGYy95mTRkG4nR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -56,7 +56,7 @@ Nejčastěji kladené dotazy
 
 ### Jak lze zjistit, zda má dítě ADNP syndrom? Existují nějaké viditelné příznaky?
 
-Podezření na genetickou poruchu obvykle vysloví neurolog, který doporučí konzultaci s klinickým genetikem. ADNP syndrom má mnoho typických příznaků, ale ty se často objevují i u jiných vzácných onemocnění, což může diagnostiku ztížit. Jedním z neobvyklých a specifických znaků, který může lékaře navést na správnou stopu, je velmi časné prořezání všech zubů – obvykle už kolem prvního roku života.
+Podezření na genetickou poruchu obvykle vysloví neurolog, který doporučí konzultaci s klinickým genetikem. ADNP syndrom má mnoho typických příznaků, ale ty se často objevují i u jiných vzácných onemocnění, což může diagnostiku ztížit. Jedním z neobvyklých a specifických znaků, který může lékaře navést na správnou stopu, je velmi časné prořezání všech zubů – obvykle už kolem prvního roku života. Na základě anamnézy českých pacientů ADNP asociace též doporučuje indikovat ke genetickému testování děti, u kterých bylo vysloveno podezření na Angelmanův syndrom.
 
 ### Kolik dětí s ADNP syndromem je v České republice celkově?
 
@@ -64,19 +64,19 @@ Odhaduje se, že v České republice by mohlo mít ADNP syndrom přibližně 35 
 
 ### Je možné, že mé dítě má ADNP syndrom, i když mu nebyla diagnostikována žádná genetická porucha?
 
-Je důležité zjistit, jaké genetické testy byly u dítěte provedeny, protože ne všechny dokážou odhalit ADNP syndrom. Tento syndrom lze diagnostikovat pouze cíleným sekvenováním genu ADNP. Často se však stává, že rodičům jsou nabídnuty pouze základní genetické testy, jako je mikroarray analýza, která odhalí jen větší genetické změny, nebo testování jiných konkrétních genů. Pokud tedy existuje podezření na ADNP syndrom a dosavadní testy ho nepotvrdily, je vhodné konzultovat možnosti cíleného genetického vyšetření.
+Je důležité zjistit, jaké genetické testy byly u dítěte provedeny, protože ne všechny dokážou odhalit ADNP syndrom. Tento syndrom lze diagnostikovat pouze cíleným sekvenováním genu ADNP. Často se však stává, že rodičům jsou nabídnuty pouze základní genetické testy, jako je mikroarray analýza, která odhalí jen větší změny v DNA, nebo testování jiných konkrétních genů. Pokud tedy existuje podezření na ADNP syndrom a dosavadní testy ho nepotvrdily, je vhodné konzultovat možnosti cíleného genetického vyšetření.
 
 ### Jaké jsou hlavní rozdíly mezi ADNP syndromem a autismem?
 
-ADNP syndrom je vzácné genetické onemocnění způsobené mutací v genu ADNP, které ovlivňuje vývoj dítěte a vede k celé řadě zdravotních obtíží. Mezi časté projevy patří opožděný vývoj, poruchy řeči, svalová slabost a autistické rysy. Porucha autistického spektra (PAS) je naopak označení pro soubor symptomů souvisejících s odlišným vnímáním, komunikací a chováním. U dětí s ADNP syndromem se projevy PAS vyskytují ve více než 60 % případů, i když příčina je v tomto případě geneticky specifická.
+ADNP syndrom je vzácné genetické onemocnění způsobené mutací v genu ADNP, které ovlivňuje vývoj dítěte a vede k celé řadě zdravotních obtíží. Mezi časté projevy patří opožděný vývoj, poruchy řeči, svalová slabost a autistické rysy. Porucha autistického spektra (PAS) je naopak označení pro soubor symptomů souvisejících s odlišným vnímáním, komunikací a chováním. U dětí s ADNP syndromem se projevy PAS vyskytují ve více než 60 % případů, i když projevy jsou v tomto případě geneticky specifické.
 
-### Pokud lék Davunetide projde klinickými studiemi, kdy bude dostupný v Česku?
+### Pokud lék Davunetide projde úspěšně klinickým hodnocením, kdy bude dostupný v Česku?
 
-Než může být lék běžně dostupný, musí nejprve prokázat svou bezpečnost a účinnost v klinických studiích. Na základě těchto výsledků pak farmaceutická společnost požádá o jeho registraci u Evropské agentury pro léčivé přípravky. V České republice musí schválení udělit Státní ústav pro kontrolu léčiv (SÚKL). Pokud lék získá schválení, rodiny ho mohou začít využívat, ale otázkou zůstává, zda a v jakém rozsahu ho budou hradit zdravotní pojišťovny. Rodiny musí zpravidla žádat o individuální úhradu léčby. Celý proces může trvat několik měsíců i let.
+Než může být lék běžně dostupný, musí nejprve prokázat svou bezpečnost a účinnost v klinickém hodnocení. Na základě výsledků pak farmaceutická společnost požádá o jeho registraci u Evropské agentury pro léčivé přípravky (EMA). V České republice musí schválení udělit Státní ústav pro kontrolu léčiv (SÚKL). Pokud lék získá schválení, rodiny ho mohou začít využívat, ale otázkou zůstává, zda a v jakém rozsahu ho budou hradit zdravotní pojišťovny. Rodiny musí zpravidla žádat o individuální úhradu léčby. Celý proces může trvat několik měsíců i let.
 
-### Jak mohou rodiny v ČR zapojit své dítě do klinické studie v zahraničí?
+### Jak mohou rodiny v ČR zapojit své dítě do klinického hodnocení v zahraničí?
 
-Pokud máte dítě s ADNP syndromem a chcete ho zapojit do klinické studie, neváhejte nás kontaktovat. Pro více informací se obraťte na našeho koordinátora na e-mailu info@adnpasociace.cz – rádi vám pomůžeme s dalším postupem.
+Pokud máte dítě s ADNP syndromem a chcete ho zapojit do klinického hodnocení, neváhejte nás kontaktovat na e-mailu info@adnpasociace.cz a rádi vám pomůžeme s dalším postupem.
 
 
 
@@ -94,19 +94,19 @@ V rámci výzkumu byly identifikovány dva epigenetické profily ADNP syndromu: 
 
 ### Jaké jsou hlavní bariéry pro screening ADNP syndromu v ČR a jak by se daly překonat?
 
-ADNP syndrom by měl být zařazen do diferenciální diagnostiky syndromů s podobnými projevy, zejména Angelmanova syndromu. Zároveň je vhodné zahrnout gen ADNP do virtuálních panelů pro diagnostiku vzácných onemocnění. K urychlení diagnostického procesu by mohlo přispět také testování EpiSign, které je dostupné například v Belgii a Nizozemí.
+ADNP syndrom by měl být zařazen do diferenciální diagnostiky syndromů s podobnými klinickými projevy, zejména Angelmanova syndromu. Zároveň je nezbytné zahrnout gen ADNP do všech virtuálních panelů pro diagnostiku vzácných onemocnění spojených s intelektuálním postižením.
 
 ### Existují biomarkery, které by mohly pomoci včasné diagnostice ADNP syndromu?
 
-Pokud existuje podezření na genetické onemocnění spojené s mentálním postižením a u dítěte došlo k prořezání kompletního chrupu již v jednom roce věku, je důležité detailně porovnat jeho fenotyp s typickými projevy ADNP syndromu.
+Pokud existuje podezření na genetické onemocnění spojené s intelektuálním postižením a u dítěte došlo k prořezání kompletního chrupu již v jednom roce věku, je vysoká pravděpodobnost, že se jedná o ADNP syndrom. Je proto důležité detailně porovnat jeho fenotyp s typickými projevy tohoto onemocnění a zvážit indikaci genetického testování.
 
 ### Jaká je pravděpodobnost, že léčba Davunetidem povede k významnému zlepšení kognitivních funkcí u dětí s ADNP syndromem?
 
-Přesná pravděpodobnost účinnosti zatím není stanovena, avšak preklinické studie přinesly velmi slibné výsledky. Hlavní výzvou zůstává zachování stability molekuly a její cílené doručení k mozkovým buňkám. Klíčovou roli v tomto procesu hraje i spolupráce dítěte, jelikož účinná látka musí být podána nosní cestou, aby se dostala do mozku a překonala hematoencefalickou bariéru. Je důležité zdůraznit, že i menší účinnost látky pomáhá dětem činit pokroky, což má naprosto zásadní dopad na kvalitu života rodiny.
+Přesná pravděpodobnost účinnosti zatím není stanovena, ale preklinické studie přinesly velmi slibné výsledky. Hlavní výzvou zůstává zachování stability molekuly a její cílené doručení k neuronům. Klíčovým faktorem je schopnost účinné látky překonat hematoencefalickou bariéru. V tomto ohledu hraje zásadní roli také spolupráce dítěte, jelikož látka se podává nosní cestou, což ovlivňuje její biologickou dostupnost v mozkové tkáni. Je důležité zdůraznit, že i částečný terapeutický efekt pomáhá dětem činit pokroky, které mají naprosto zásadní dopad na kvalitu života rodiny.
 
-###  Proč české kliniky odmítly účast na klinické studii a jak by se tato situace mohla změnit v budoucnu?
+###  Proč české kliniky odmítly účast na klinickém hodnocení a jak by se tato situace mohla změnit v budoucnu?
 
-České zdravotnictví zaostává za západními zeměmi v propojení výzkumu s klinickou praxí. Proces zapojení pacientů do výzkumu a klinických studií je v praxi velmi omezený a rodiče si tuto cestu musí většinou zajišťovat sami. Chybí efektivní mechanismus, který by umožnil lékařům aktivně doporučovat pacienty do relevantních studií. V konečné fázi pak často není dostatečná vůle klinické studie realizovat, protože zdravotnická zařízení se potýkají s personálními kapacitními problémy a upřednostňují široce rozšířená onemocnění před zlepšením kvality života malého počtu pacientů se vzácnými diagnózami.
+České zdravotnictví zaostává za západními zeměmi v propojení výzkumu s klinickou praxí. Možnosti zapojení pacientů do výzkumu a klinických studií jsou v praxi velmi omezené a rodiče si tuto cestu často musí zajišťovat sami. Chybí nám efektivní mechanismus, který by lékařům umožnil aktivně doporučovat pacienty do relevantních studií. Česká zdravotnická zařízení se navíc potýkají s personálními a kapacitními problémy, což vede k upřednostňování běžných onemocnění před zlepšením kvality života malého počtu pacientů se vzácnými onemocněními. V neposlední řadě hraje významnou roli i Státní ústav pro kontrolu léčiv, jehož přísná regulace ve srovnání s jinými zeměmi EU odrazuje sponzory od realizace klinických studií v České republice.
 
 
 
