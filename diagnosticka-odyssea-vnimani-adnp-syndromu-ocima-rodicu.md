@@ -20,7 +20,7 @@ U dětí narozených po roce 2020 naopak v žádném z případů nepřesáhla d
 
 Podobný trend byl zaznamenán také v České republice, kde byla **mutace v genu ADNP diagnostikována u čtyř ze šesti dětí až po roce 2020**. U tří z těchto dětí byl potvrzen ADNP syndrom, v jednom případě se jedná o variantu s dosud nejasným klinickým významem. Tento vývoj odpovídá obecnému trendu u řady dalších vzácných onemocnění, kde pokrok v technologiích sekvenace DNA a snižování nákladů na genetická vyšetření významně zkracují dobu potřebnou k určení diagnózy. 
 
-> Přesto zůstává délka diagnostického procesu u ADNP syndromu v České republice oproti evropskému průměru stále delší. Dosud se nepodařilo diagnostikovat žádného pacienta do 24 měsíců věku.
+> Diagnostický proces u ADNP syndromu v České republice je však oproti evropskému průměru stále delší. Dosud se nepodařilo diagnostikovat žádného pacienta do 24 měsíců věku.
 
 
 
