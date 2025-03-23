@@ -11,7 +11,7 @@ Příběhy pacientů se vzácným onemocněním často začínají nenápadnými
 
 **ADNP syndrom je vzácné neurovývojové onemocnění způsobené mutací v genu ADNP.** Patří mezi diagnózy, které jsou i přes závažnost svých projevů výrazně poddiagnostikovány. Gen ADNP kóduje protein nezbytný pro regulaci genové exprese a hraje klíčovou roli ve vývoji mozku. Porucha jeho funkce má zásadní dopad na neurologický vývoj dítěte.
 
-Tento článek se zaměřuje na diagnostický proces a na to, jak je ADNP syndrom vnímán z pohledu pečujících osob.
+Tento článek se zaměřuje na diagnostický proces a na vnímání ADNP syndromu z pohledu pečujících osob.
 
 ## Diagnostická odyssea se zkracuje
 
