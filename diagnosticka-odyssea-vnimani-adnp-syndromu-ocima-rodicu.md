@@ -15,7 +15,7 @@ Tento článek se zaměřuje na diagnostický proces a na vnímání ADNP syndro
 
 ## Diagnostická odyssea se zkracuje
 
-Na základě kvalitativní analýzy dat od 22 pečujících osob dětí s ADNP syndromem **byl identifikován významný rozdíl v délce diagnostického procesu mezi dětmi narozenými před rokem 2020 a po něm**. Přestože byl ADNP syndrom popsán již v roce 2014, děti narozené v letech 2014 až 2019 čekaly na stanovení diagnózy v průměru více než pět let.
+Na základě kvalitativní analýzy dat od 22 pečujících osob dětí s ADNP syndromem **byl identifikován významný rozdíl v délce diagnostického procesu mezi dětmi narozenými před rokem 2020 a po něm**. Přestože byl ADNP syndrom popsán již v roce 2014, děti narozené v letech 2014 až 2019 čekaly na stanovení diagnózy minimálně 36 měsíců.
 U dětí narozených po roce 2020 naopak v žádném z případů nepřesáhla doba do stanovení diagnózy 24 měsíců.
 
 Podobný trend byl zaznamenán také v České republice, kde byla **mutace v genu ADNP diagnostikována u čtyř ze šesti dětí až po roce 2020**. U tří z těchto dětí byl potvrzen ADNP syndrom, v jednom případě se jedná o variantu s dosud nejasným klinickým významem. Tento vývoj odpovídá obecnému trendu u řady dalších vzácných onemocnění, kde pokrok v technologiích sekvenace DNA a snižování nákladů na genetická vyšetření významně zkracují dobu potřebnou k určení diagnózy. 
