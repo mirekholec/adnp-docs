@@ -26,7 +26,7 @@ Metodika zahrnuje extrakci klinických příznaků z odborné literatury, probí
 
 ## Klinické projevy u pacientů s ADNP syndromem
 
-Analýza vychází z dat čtyř studií publikovaných v letech 2014 až 2020, které dohromady zahrnují celkem 174 subjektů. Vzhledem k možnému překryvu mezi jednotlivými studiemi nelze vyloučit opakování některých subjektů. Frekvence výskytu byla stanovena na základě souhrnných údajů ze všech čtyř studií.
+Analýza vychází z dat čtyř studií publikovaných v letech 2014 až 2020, které dohromady zahrnují celkem 174 subjektů[^1][^2][^3][^4]. Vzhledem k možnému překryvu mezi jednotlivými studiemi nelze vyloučit opakování některých subjektů. Frekvence výskytu byla stanovena na základě souhrnných údajů ze všech čtyř studií.
 
 ![](obr/kim-2025-adnp-klinicke-projevy-poster.jpg)
 
@@ -40,7 +40,7 @@ Retrospektivní analýza zdravotní dokumentace pacientů s ADNP syndromem v Če
 
 Na základě poznatků formulujeme indikační kritéria pro cílené genetické testování ADNP genu založená na specifických fenotypových projevech, přičemž důraz klademe na snadno identifikovatelné klinické markery dostupné v primární a specializované pediatrické péči. 
 
-Charakteristický klinický fenotyp, který zahrnuje kombinaci globálního vývojového opoždění, opoždění řeči, intelektuálního postižení, atypických rysů PAS, hypotonie a unikátního biomarkeru v podobě předčasné erupce chrupu, představuje základ pro včasnou indikaci cíleného genetického testování. 
+Charakteristický klinický fenotyp, který zahrnuje kombinaci globálního vývojového opoždění, opoždění řeči, intelektuálního postižení, atypických rysů PAS[^5], hypotonie a unikátního biomarkeru v podobě předčasné erupce chrupu, představuje základ pro včasnou indikaci cíleného genetického testování. 
 
 > Vzhledem k vysoké míře klinického překryvu a častým diagnostickým záměnám by měla být suspekce na Angelmanův syndrom považována za indikaci k zahrnutí ADNP syndromu do užší diferenciální diagnostiky a zvážení cíleného molekulárně genetického testování. 
 
@@ -51,10 +51,7 @@ Implementace těchto indikačních kritérií do klinické praxe může významn
 ### Zdroje
 
 [^1]: [https://doi.org/10.1038/ng.2899](https://doi.org/10.1038/ng.2899)
-
-- [https://doi.org/10.1002/aur.1980](https://doi.org/10.1002/aur.1980)
-- [https://doi.org/10.1016/j.ajhg.2020.07.003](https://doi.org/10.1016/j.ajhg.2020.07.003)
-- [https://doi.org/10.1038/tp.2017.27](https://doi.org/10.1038/tp.2017.27)
-- https://doi.org/10.1016/j.biopsych.2018.02.1173
-- [https://doi.org/10.1038/ng.2899](https://doi.org/10.1038/ng.2899)
-- [https://doi.org/10.1038/tp.2017.27](https://doi.org/10.1038/tp.2017.27)
+[^2]:[https://doi.org/10.1016/j.ajhg.2020.07.003](https://doi.org/10.1016/j.ajhg.2020.07.003)
+[^3]: [https://doi.org/10.1016/j.biopsych.2018.02.1173](https://doi.org/10.1016/j.biopsych.2018.02.1173)
+[^4]: [https://doi.org/10.1038/tp.2017.27](https://doi.org/10.1038/tp.2017.27)
+[^5]: [https://doi.org/10.1002/aur.1980](https://doi.org/10.1002/aur.1980)
