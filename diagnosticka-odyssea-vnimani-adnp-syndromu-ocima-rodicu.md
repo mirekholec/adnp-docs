@@ -7,16 +7,15 @@ css: ""
 description: "Díky pokroku v genetice se zkracuje doba potřebná k diagnóze ADNP syndromu. Vývojové opoždění zůstává klíčovým indikátorem. Vnímání ADNP syndromu u pečujících osob se v čase mění."
 ---
 
-Příběhy pacientů se vzácným onemocněním často začínají nenápadnými, nespecifickými příznaky, které vedou k opakovaným návštěvám různých specialistů a dlouhému období nejistoty. Podle organizace EURORDIS trvá tzv. diagnostická odyssea – tedy cesta od prvních projevů až po stanovení konečné diagnózy – v průměru 5,4 roku u žen a 3,7 roku u mužů.
+Příběhy pacientů se vzácným onemocněním často začínají nenápadnými, nespecifickými příznaky, které vedou k opakovaným návštěvám různých specialistů a dlouhému období nejistoty. Podle organizace EURORDIS trvá tzv. diagnostická odyssea – tedy cesta od prvních projevů až po stanovení konečné diagnózy – v průměru 5,4 roku u žen a 3,7 roku u mužů. [^https://www.eurordis.org/publications/rb-diagnosis-odyssey/]
 
-**ADNP syndrom je vzácné neurovývojové onemocnění způsobené mutací v genu ADNP.** Patří mezi diagnózy, které jsou i přes závažnost svých projevů výrazně poddiagnostikovány. Gen ADNP kóduje protein nezbytný pro regulaci genové exprese a hraje klíčovou roli ve vývoji mozku. Porucha jeho funkce má zásadní dopad na neurologický vývoj dítěte.
+**ADNP syndrom je vzácné neurovývojové onemocnění způsobené mutací v genu ADNP.** Patří mezi diagnózy, které jsou i přes závažnost svých projevů výrazně poddiagnostikovány. Gen ADNP kóduje protein nezbytný pro regulaci genové exprese a hraje klíčovou roli ve vývoji mozku. Porucha jeho funkce má zásadní dopad na neurologický vývoj dítěte. [^https://doi.org/10.1038/ng.2899]
 
 Tento článek se zaměřuje na diagnostický proces a na vnímání ADNP syndromu z pohledu pečujících osob.
 
 ## Diagnostická odyssea se zkracuje
 
-Na základě kvalitativní analýzy dat od 22 pečujících osob dětí s ADNP syndromem **byl identifikován významný rozdíl v délce diagnostického procesu mezi dětmi narozenými před rokem 2020 a po něm**. Přestože byl ADNP syndrom popsán již v roce 2014, děti narozené v letech 2014 až 2019 čekaly na stanovení diagnózy minimálně 36 měsíců.
-U dětí narozených po roce 2020 naopak v žádném z případů nepřesáhla doba do stanovení diagnózy 24 měsíců.
+Na základě kvalitativní analýzy dat od 22 pečujících osob dětí s ADNP syndromem **byl identifikován významný rozdíl v délce diagnostického procesu mezi dětmi narozenými před rokem 2020 a po něm**. Přestože byl ADNP syndrom popsán již v roce 2014, děti narozené v letech 2014 až 2019 čekaly na stanovení diagnózy minimálně 36 měsíců. U dětí narozených po roce 2020 naopak v žádném z případů nepřesáhla doba do stanovení diagnózy 24 měsíců.
 
 Podobný trend byl zaznamenán také v České republice, kde byla **mutace v genu ADNP diagnostikována u čtyř ze šesti dětí až po roce 2020**. U tří z těchto dětí byl potvrzen ADNP syndrom, v jednom případě se jedná o variantu s dosud nejasným klinickým významem. Tento vývoj odpovídá obecnému trendu u řady dalších vzácných onemocnění, kde pokrok v technologiích sekvenace DNA a snižování nákladů na genetická vyšetření významně zkracují dobu potřebnou k určení diagnózy. 
 
@@ -24,13 +23,13 @@ Podobný trend byl zaznamenán také v České republice, kde byla **mutace v ge
 
 
 
-![](img/adnp-diagnostika-trvani-eu-cr.png)
+![](obr/adnp-diagnostika-trvani-eu-cr.png)
 
 ## Jak vnímají ADNP syndrom pečovatelé
 
 Pro další analýzu byly děti rozděleny do dvou kohort podle věku: do první skupiny se zařadily děti do pěti let, do druhé všechny starší děti. Toto rozdělení odpovídá již zmíněnému předělu v diagnostice. **Délka diagnostické odyssey neprokázala statisticky významný rozdíl mezi pohlavími v žádné z kohort.** 
 
-![](img/adnp-diagnostika-pohlavi.png)
+![](obr/adnp-diagnostika-pohlavi.png)
 
 Zajímavé rozdíly se však objevily ve vnímání typických projevů ADNP syndromu v jednotlivých skupinách. U mladších dětí označilo **58 % pečujících osob** jako hlavní projev **celkové vývojové opoždění a autismus**. Naproti tomu ve starší skupině nikdo z pečovatelů neuváděl vývojové opoždění jako charakteristický znak a pouze 20 % pečujících osob zmínilo autistické projevy.
 
@@ -59,11 +58,3 @@ Navzdory těmto limitům přináší výsledky cenné poznatky o diagnostickém 
 - 22 osob, z toho 14 chlapců a 8 dívek
 - průměrný věk 7.0 roku, med 4.5, std 5.9, rozsah 1-19 let
 - původ: 15 evropa, 2 usa, 1 asie, 4 neuvedena
-
-
-
-### Zdroje
-
-[https://www.eurordis.org/publications/rb-diagnosis-odyssey](https://www.eurordis.org/publications/rb-diagnosis-odyssey)
-
-[Helsmoortel C, Vulto-van Silfhout AT, Coe BP, Vandeweyer G, Rooms L, van den Ende J, Schuurs-Hoeijmakers JH, Marcelis CL, Willemsen MH, Vissers LE, Yntema HG, Bakshi M, Wilson M, Witherspoon KT, Malmgren H, Nordgren A, Annerén G, Fichera M, Bosco P, Romano C, de Vries BB, Kleefstra T, Kooy RF, Eichler EE, Van der Aa N. A SWI/SNF-related autism syndrome caused by de novo mutations in ADNP. Nat Genet. 2014 Apr;46(4):380-4. doi: 10.1038/ng.2899. Epub 2014 Feb 16. PMID: 24531329; PMCID: PMC3990853.]()

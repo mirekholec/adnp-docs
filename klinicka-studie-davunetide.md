@@ -11,7 +11,7 @@ V České republice je k začátku roku 2025 diagnostikováno 5 dětí s ADNP sy
 
 ## ADNP syndrom
 
-ADNP syndrom (dříve též Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené mutací v genu ADNP. Ve většině případů vzniká de novo mutací, tedy nově u daného jedince, bez předchozího výskytu v rodině. V současné době je známo několik desítek patogenních mutací, které lze rozdělit do dvou epigenetických profilů.
+ADNP syndrom (dříve též Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené mutací v genu ADNP. Ve většině případů vzniká de novo mutací, tedy nově u daného jedince, bez předchozího výskytu v rodině. V současné době je známo několik desítek patogenních mutací, které lze rozdělit do dvou epigenetických profilů. 
 
 Diagnostika ADNP syndromu vyžaduje genetické testování, konkrétně cílené sekvenování ADNP genu. Alternativně může diagnózu potvrdit metylační analýza, která identifikuje specifickou epigenetickou stopu spojenou s ADNP syndromem, avšak toto vyšetření zatím není v České republice standardně dostupné.
 
