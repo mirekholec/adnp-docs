@@ -34,9 +34,9 @@ Mezi další monogenní syndromy spojené s PAS patří například Syndrom frag
 
 Diagnostická odyssea u dětí se vzácnými genetickými onemocněními často trvá i několik let, protože se v klinické praxi uplatňuje postupný diagnostický přístup. Ten zpravidla začíná chromozomální microarray analýzou, po které následuje cílené testování jednotlivých genů podle klinických projevů dítěte. Vzhledem k velkému množství geneticky podmíněných poruch je však úspěšnost tohoto přístupu omezená.
 
-**Například čtyřem z pěti pacientů s diagnostikovaným ADNP syndromem v České republice bylo původně vysloveno podezření na Angelmanův syndrom.** [^https://adnpasociace.cz/clanky/adnp-syndrom-klinicke-indikacni-markery]
+**Například čtyřem z pěti pacientů s diagnostikovaným ADNP syndromem v České republice bylo původně (mylně) vysloveno podezření na Angelmanův syndrom.** [^https://adnpasociace.cz/clanky/adnp-syndrom-klinicke-indikacni-markery]
 
-Vyšší úspěšnost má **metoda sekvenování nové generace (NGS)**, zejména při použití tzv. virtuálních panelů genů spojených s PAS. Pokud ani tato metoda nevede k odhalení příčiny, je možné přistoupit k **sekvenování celého exomu (WES) nebo celého genomu (WGS)**. Tyto metody jsou však finančně náročné a v českém prostředí se nejčastěji indikují v rámci výzkumných projektů nebo u případů se závažnějšími symptomy. **S dalším poklesem cen genetického testování lze očekávat širší dostupnost těchto metod i v běžné klinické praxi.**
+Vyšší úspěšnost má **metoda sekvenování nové generace (NGS)**, zejména při použití tzv. virtuálních panelů genů spojených s PAS. Pokud ani tato metoda nevede k odhalení příčiny, je možné přistoupit k **sekvenování celého exomu (WES) nebo celého genomu (WGS)**. Tyto metody jsou však finančně nákladné a v českém prostředí se nejčastěji indikují v rámci výzkumných projektů nebo u případů se závažnějšími symptomy. **S dalším poklesem cen genetického testování lze očekávat širší dostupnost těchto metod i v běžné klinické praxi.**
 
 ## Zmírnění PAS změnou mechanismů u genetických syndromů
 
