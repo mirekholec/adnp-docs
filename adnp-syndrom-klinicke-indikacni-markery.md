@@ -4,10 +4,8 @@ author: "Miroslav Holec"
 date: "2025-03-27"
 category: "clanek"
 css: "extra"
-description: "Současné poznatky o genetickém pozadí ADNP syndromu a identifikace specifických klinických markerů, které by měly vést lékaře k indikaci cíleného genetického testování na přítomnost mutací v genu ADNP"
+description: "Současné poznatky o genetickém pozadí ADNP syndromu v odborné literatuře a pacientů v ČR."
 ---
-
-# ADNP syndrom: Klinické indikační markery pro cílené genetické testování
 
 **Kontaktní údaje**
 
@@ -52,16 +50,11 @@ Implementace těchto indikačních kritérií do klinické praxe může významn
 
 ### Zdroje
 
-- [^1]: [https://doi.org/10.1038/ng.2899](https://doi.org/10.1038/ng.2899)
+[^1]: [https://doi.org/10.1038/ng.2899](https://doi.org/10.1038/ng.2899)
 
 - [https://doi.org/10.1002/aur.1980](https://doi.org/10.1002/aur.1980)
-
 - [https://doi.org/10.1016/j.ajhg.2020.07.003](https://doi.org/10.1016/j.ajhg.2020.07.003)
-
 - [https://doi.org/10.1038/tp.2017.27](https://doi.org/10.1038/tp.2017.27)
-
 - https://doi.org/10.1016/j.biopsych.2018.02.1173
-
 - [https://doi.org/10.1038/ng.2899](https://doi.org/10.1038/ng.2899)
-
 - [https://doi.org/10.1038/tp.2017.27](https://doi.org/10.1038/tp.2017.27)
