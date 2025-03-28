@@ -18,7 +18,7 @@ description: "Současné poznatky o genetickém pozadí ADNP syndromu v odborné
 - [Abstrakt (PDF)](https://adnpasociace.cz/doc/HolecMiroslav_Csklg2025_PP_Abstrakt_ADNP.pdf)
 - [Poster (PDF, A1)](https://adnpasociace.cz/doc/HolecMiroslav_Csklg2025_PP_Poster_ADNP.pdf)
 
-ADNP syndrom (ORPHA: 404448, OMIM: 615873) představuje vzácné neurovývojové onemocnění způsobené heterozygotními mutacemi v genu ADNP na chromozomu 20q13.13. Navzdory tomu, že jde o nejčastější známou monogenní příčinu poruch autistického spektra s odhadovanou prevalencí 0,17 % všech PAS[^1], zůstává v klinické praxi značně poddiagnostikován. Definitivní potvrzení diagnózy ADNP syndromu je založeno na identifikaci patogenních variant v genu ADNP prostřednictvím sekvenačních metod, nejčastěji celoexomového sekvenování nebo cíleného sekvenování genového panelu.
+ADNP syndrom (ORPHA: 404448, OMIM: 615873) představuje vzácné neurovývojové onemocnění způsobené heterozygotními mutacemi v genu ADNP na chromozomu 20q13.13. Navzdory tomu, že jde o nejčastější známou monogenní příčinu poruch autistického spektra s odhadovanou prevalencí 0,17 % všech PAS[^https://doi.org/10.1038/ng.2899], zůstává v klinické praxi značně poddiagnostikován. Definitivní potvrzení diagnózy ADNP syndromu je založeno na identifikaci patogenních variant v genu ADNP prostřednictvím sekvenačních metod, nejčastěji celoexomového sekvenování nebo cíleného sekvenování genového panelu.
 
 > Tato práce syntetizuje současné poznatky o genetickém pozadí ADNP syndromu a zaměřuje se na identifikaci specifických klinických markerů, které by měly vést lékaře k indikaci cíleného genetického testování na přítomnost mutací v genu ADNP. 
 
