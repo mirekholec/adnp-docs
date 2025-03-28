@@ -1,7 +1,7 @@
 ---
 title: "ADNP syndrom: Klinické indikační markery pro cílené genetické testování"
 author: "Miroslav Holec"
-date: "2025-03-28"
+date: "2025-03-27"
 category: "clanek"
 css: "extra"
 description: "Současné poznatky o genetickém pozadí ADNP syndromu a identifikace specifických klinických markerů, které by měly vést lékaře k indikaci cíleného genetického testování na přítomnost mutací v genu ADNP"
