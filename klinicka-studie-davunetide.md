@@ -3,7 +3,7 @@ title: "Klinická studie Davunetide"
 author: "Miroslav Holec"
 date: "2025-02-03"
 category: "clanek"
-css: "extra"
+css: ""
 description: "Přinášíme základní informace o klinické studii léku Davunetide a odpovídáme na nejčastější otázky spojené s ADNP syndromem a jeho léčbou."
 ---
 
