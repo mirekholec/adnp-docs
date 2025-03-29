@@ -1,5 +1,5 @@
 ---
-title: "ADNP syndrom jako nejčastější jednogenová příčina PAS"
+title: "ADNP syndrom jako jedna z nejčastějších jednogenových příčin PAS"
 author: "Miroslav Holec"
 date: "2025-03-28"
 category: "clanek"
