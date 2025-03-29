@@ -4,7 +4,7 @@ author: "Miroslav Holec"
 date: "2025-03-28"
 category: "clanek"
 css: ""
-description: "Cílená léčba zaměřená na biologickou příčinu by mohla zmírnit projevy PAS u dětí s ADNP syndromem."
+description: "Více než 80% dětí s ADNP syndromem vykazuje známky PAS. Cílená terapie zaměřená na biologickou příčinu ADNP syndromu by mohla zmírnit projevy PAS."
 ---
 
 **Poruchy autistického spektra (PAS)** představují jednu z nejčastějších neurovývojových poruch, které postihují přibližně 1 z 36 dětí [^http://dx.doi.org/10.15585/mmwr.ss7202a1] a vznikají na základě kombinace **genetických predispozic a biologických vlivů** působících především v prenatálním období. K rizikovým faktorům patří mimo jiné genetické mutace, chromozomální odchylky, prenatální infekce, komplikace v těhotenství nebo porodní traumata. **Přesná příčina bývá u mnoha jedinců neobjasněna, nicméně v řadě případů je možné prostřednictvím genetického vyšetření identifikovat konkrétní biologickou příčinu.** [^https://doi.org/10.3389/fneur.2015.00107][^https://doi.org/10.1016/S1474-4422(15)00044-7][^https://doi.org/10.1111/jcpp.12499]
