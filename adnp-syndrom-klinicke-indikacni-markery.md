@@ -5,6 +5,7 @@ date: "2025-03-27"
 category: "clanek"
 css: "extra"
 description: "Současné poznatky o genetickém pozadí ADNP syndromu v odborné literatuře a pacientů v ČR."
+doi: "https://doi.org/10.5281/zenodo.15105491"
 ---
 
 **Kontaktní údaje**
