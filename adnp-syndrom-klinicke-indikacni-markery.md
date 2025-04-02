@@ -8,17 +8,6 @@ description: "Současné poznatky o genetickém pozadí ADNP syndromu v odborné
 doi: "https://doi.org/10.5281/zenodo.15105491"
 ---
 
-**Kontaktní údaje**
-
-- Miroslav Holec, mirek@miroslavholec.cz, tel.: 773 272 767
-
-<div style="background:#f5f5f5; padding:10px; border-radius:10px; font-weight:bold;">Osobní setkání je možné během <a href="https://csklg.cz">1.ČS kongresu lékařské genetiky</a> v Luhačovicích. Na místě budu dostupný ve středu, 2. dubna mezi 12:00 a 17:00.</div>
-
-### Ke stažení
-
-- [Abstrakt (PDF)](https://adnpasociace.cz/doc/HolecMiroslav_Csklg2025_PP_Abstrakt_ADNP.pdf)
-- [Poster (PDF, A1)](https://adnpasociace.cz/doc/HolecMiroslav_Csklg2025_PP_Poster_ADNP.pdf)
-
 ADNP syndrom (ORPHA: 404448, OMIM: 615873) představuje vzácné neurovývojové onemocnění způsobené heterozygotními mutacemi v genu ADNP na chromozomu 20q13.13. Navzdory tomu, že jde o nejčastější známou monogenní příčinu poruch autistického spektra s odhadovanou prevalencí 0,17 % všech PAS[^https://doi.org/10.1038/ng.2899], zůstává v klinické praxi značně poddiagnostikován. Definitivní potvrzení diagnózy ADNP syndromu je založeno na identifikaci patogenních variant v genu ADNP prostřednictvím sekvenačních metod, nejčastěji celoexomového sekvenování nebo cíleného sekvenování genového panelu.
 
 > Tato práce syntetizuje současné poznatky o genetickém pozadí ADNP syndromu a zaměřuje se na identifikaci specifických klinických markerů, které by měly vést lékaře k indikaci cíleného genetického testování na přítomnost mutací v genu ADNP. 
@@ -48,3 +37,8 @@ Charakteristický klinický fenotyp, který zahrnuje kombinaci globálního výv
 ![](obr/kim-2025-adnp-indikacni-markery-poster.jpg)
 
 Implementace těchto indikačních kritérií do klinické praxe může významně zvýšit záchyt pacientů s ADNP syndromem a umožnit jejich včasný přístup k specializované péči a raným intervencím.
+
+### Ke stažení
+
+- [Abstrakt (PDF)](https://adnpasociace.cz/doc/HolecMiroslav_Csklg2025_PP_Abstrakt_ADNP.pdf)
+- [Poster (PDF, A1)](https://adnpasociace.cz/doc/HolecMiroslav_Csklg2025_PP_Poster_ADNP.pdf)
