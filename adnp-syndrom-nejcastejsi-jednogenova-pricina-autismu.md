@@ -28,8 +28,6 @@ Diagnóza je vždy do určité míry ovlivněna mírou odbornosti, zkušenostmi 
 <iframe src="https://www.youtube.com/embed/XQaaj-9xLmQ?si=jqizqWeP0IMDTLtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 </div>
 
-</div>
-
 ## Genetické příčiny autismu
 
 PAS může být způsobena **jak dědičnými, tak de novo genovými variacemi**. V posledním desetiletí byly identifikovány stovky genů, které přispívají k závažným deficitům v komunikaci a sociálním chování s nimž se pacienti často potýkají. Tyto geny však tvoří pouze 10-20 % případů PAS a pacienti s podobnými patogenními variantami mohou být diagnostikováni na velmi rozdílných úrovních spektra. [^https://doi.org/10.3389/fncel.2019.00385]
