@@ -8,7 +8,7 @@ description: ""
 doi: "https://doi.org/10.1007/s12031-025-02344-5"
 ---
 
-**Sdílíme kazuistiku, která byla vydána v čaopise Journal of Molecular Neuroscience. Časopis se věnuje publikování výzkumu, který prohlubuje znalosti o molekulární struktuře, funkci a vývoji nervového systému.**
+**Sdílíme kazuistiku, která byla vydána v časopise Journal of Molecular Neuroscience. Časopis se věnuje publikování výzkumu, který prohlubuje znalosti o molekulární struktuře, funkci a vývoji nervového systému.**
 
 ## Editorial
 
