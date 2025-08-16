@@ -5,7 +5,7 @@ date: "2025-08-12"
 category: "clanek"
 css: ""
 description: ""
-preview: true,
+preview: true
 reviewer: ""
 ---
 
