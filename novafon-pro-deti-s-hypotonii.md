@@ -5,7 +5,8 @@ date: "2025-08-12"
 category: "clanek"
 css: ""
 description: ""
-preview: true
+preview: true,
+reviewer: ""
 ---
 
 Přibližně 80 % pacientů s ADNP syndromem trpí centrální hypotonií.[^https://zenodo.org/records/15105491] Příčinou centrální hypotonie je narušená funkce centrálního nervového systému, zejména oblastí mozku a míchy, které řídí svalové napětí a koordinaci pohybů. První projevy lze často pozorovat již v kojeneckém věku. [^https://www.ncbi.nlm.nih.gov/books/NBK562209]
@@ -46,7 +47,7 @@ Vibrační přístroje Novafon patří mezi zdravotnické prostředky třídy II
 
 ![](obr/novafon-os-deti.jpg)
 
-
+Studie z konce roku 2024 prokázala účinnost terapií u dětí s dysfagií prováděných s Novafonem po dobu 8 týdnů (3x týdně po 20 min). Studie zdůrazňuje, že fokální vibrační terapie pomocí zařízení Novafon může sloužit jako účinný a podpůrný přístup v rámci konvenční terapie dysfagie u dětí. [^https://doi.org/10.1111/joor.13900] Jiná studie z roku 2018 prokázala u malého vzorku dospělých statisticky významné zlepšení dysfonie během pětitýdenního programu. [^https://doi.org/10.1080/14015439.2018.1453541]
 
 ## Jak začít s Novafonem
 
