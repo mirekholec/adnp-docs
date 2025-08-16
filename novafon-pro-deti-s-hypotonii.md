@@ -6,7 +6,6 @@ category: "clanek"
 css: ""
 description: ""
 preview: true
-reviewer: ""
 ---
 
 Přibližně 80 % pacientů s ADNP syndromem trpí centrální hypotonií.[^https://zenodo.org/records/15105491] Příčinou centrální hypotonie je narušená funkce centrálního nervového systému, zejména oblastí mozku a míchy, které řídí svalové napětí a koordinaci pohybů. První projevy lze často pozorovat již v kojeneckém věku. [^https://www.ncbi.nlm.nih.gov/books/NBK562209]
