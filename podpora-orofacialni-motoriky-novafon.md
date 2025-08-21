@@ -16,10 +16,6 @@ Prostředí, ve kterém se děti pohybují se musí bezpečně upravit, jelikož
 
 
 
-> REFERENCE RODIČU
-
-
-
 ### Péče o děti s hypotonií
 
 V praxi se pro zlepšení hypotonie uplatňuje multidisciplinární péče, která zahrnuje:
@@ -40,7 +36,7 @@ Novafon patří mezi speciální pomůcky, které se využívají především v
 
 Pro využití Novafonu u dětí s centrální hypotonií zatím neexistují klinické studie. Účinky vycházejí především z klinické praxe logopedů a z individuálních zkušeností.
 
-> NÁZOR SPECIALISTY
+> Novafon při ergoterapii využíváme již několik let. Jeho použití je všestranné, dá se využít při bolestech zad, svalů, kloubů. U DMO pro uvolnění spastických svalů, u dětí s hypotonií zase naopak k aktivizaci a posílení svalů.  Má dva typy vibrací, které stimulují sval ke stahu i uvolnění.  Velké zastoupení má při orofaciální stimulaci. K dispozici máme několik nástavců. Pasivním působením vibrací dokáže nastimulovat pohyb jazyka a svalů orofaciální oblasti. U většiny dětí dochází po orofaciální stimulaci Novafonem i k aktivnímu pohybu jazyka a svalů DÚ, čímž se dětem zlepší příjem stravy a možnost verbální komunikace. Za dobu co používáme Novafon, což je již 7 let, pomohl Novafon již stovkám dětí. ([Centrum ergoterapie Herynka](https://www.herynka.cz/))
 
 Vibrační přístroje Novafon patří mezi zdravotnické prostředky třídy IIa a má certifikaci jakosti dle ISO 13485:2016. Novafon byl registrován jako zdravotní pomůcka u Státního ústavu pro kontrolu léčiv (SÚKL) do 31. 12. 2024 [^https://eregpublicsecure.ksrzis.cz/Registr/RZPRO/ZdravotnickyProstredek/Detail/177202]. 
 
@@ -54,7 +50,7 @@ V České republice je Novafon dostupný prostřednictvím e-shopu [novafon.cz](
 
 Některá zdravotnická pracoviště Novafon využívají v klinické praxi již několik let a v poslední době se objevují také specializované kurzy a workshopy určené zdravotnickým odborníkům i pečujícím osobám. Pro zahájení práce s Novafonem lze vyhledat podporu zkušeného ergoterapeuta či klinického logopeda, případně využít nabídku online konzultací poskytovaných různými centry.
 
-> Doporučení pro práci s Novafone nám poskytla konzultace s logopedem z centra multismyslové terapie, [Kouzelen](https://obchod.kouzelen.cz/konzultace-online/). Díky cenným radám jsem mohli Novafon okamžitě začít používat. Zároveň jsme dostali doporučení na několik specialistů pro další konzultace. (Miroslav Holec)
+> Doporučení pro práci s Novafone nám poskytla konzultace s logopedem z centra multismyslové terapie, [Kouzelen](https://obchod.kouzelen.cz/konzultace-online/). Díky cenným radám jsme mohli Novafon okamžitě začít používat. Prakticky od začátku vnímáme u syna stimulaci svalů a jejich aktivní zapojení během procedury. Zároveň jsme dostali doporučení na další odborníky pro specializované konzultace. (Miroslav Holec, otec [Lukáška](https://adnpasociace.cz/pribehy/lukasek))
 
 Přímo v e-shopu novafon.cz lze dále zakoupit příručku [Tipy a návody pro práci s přístrojem NOVAFON](https://www.novafon.cz/tipy-a-navody-pro-praci-s-pristrojem-novafon--v-nem-jazyce/), která je v německém jazyce a poskytuje základní tipy pro použití Novafone. Příručka se však nevěnuje specifickému použití u dětí ani se hlouběji nezaměřuje na orofaciální stimulaci.
 
