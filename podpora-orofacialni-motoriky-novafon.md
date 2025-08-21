@@ -1,7 +1,7 @@
 ---
 title: "Podpora orofaciální motoriky pomocí vibrační stimulace s Novafon"
 author: "Miroslav Holec"
-date: "2025-08-12"
+date: "2025-08-21"
 category: "clanek"
 css: ""
 description: ""
