@@ -4,7 +4,7 @@ author: "Miroslav Holec"
 date: "2025-08-22"
 category: "clanek"
 css: ""
-description: "Hypotonie u dětí vyžaduje komplexní multidisciplinární péči zaměřenou na posílení svalů, koordinace a sebeobslužných dovedností. Zařízení Novafon může v domácím prostředí efektivně podpořit orofaciální i celkovou svalovou stimulaci a tím přispět k lepšímu vývoji řeči a polykání. "
+description: "Hypotonie u dětí vyžaduje komplexní péči zaměřenou na posílení svalů, koordinaci a sebeobsluhu. Zařízení Novafon může v domácím prostředí podpořit orofaciální i celkovou svalovou stimulaci a přispět k lepšímu vývoji řeči. "
 preview: false
 reviewer: "Eliška Míčová"
 ---
