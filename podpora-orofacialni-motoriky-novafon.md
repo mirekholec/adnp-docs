@@ -7,6 +7,7 @@ css: ""
 description: "Hypotonie u dětí vyžaduje komplexní péči zaměřenou na posílení svalů, koordinaci a sebeobsluhu. Zařízení Novafon může v domácím prostředí podpořit orofaciální i celkovou svalovou stimulaci a přispět k lepšímu vývoji řeči. "
 preview: false
 reviewer: "Eliška Míčová"
+img: https://adnpasociace.cz/obr/novafon.jpg
 ---
 
 Přibližně 80 % pacientů s ADNP syndromem trpí centrální hypotonií.[^https://doi.org/10.1016/j.biopsych.2018.02.1173] Příčinou centrální hypotonie je narušená funkce centrálního nervového systému, zejména oblastí mozku a míchy, které řídí svalové napětí a koordinaci pohybů. Ačkoli hypotonie může mít prenatální, perinatální i postnatální příčiny, v případě ADNP syndromu se jedná převážně o geneticky podmíněnou centrální poruchu, jejíž první projevy lze často pozorovat již v kojeneckém věku. [^https://www.ncbi.nlm.nih.gov/books/NBK562209]
@@ -48,6 +49,8 @@ Studie z konce roku 2024 prokázala účinnost terapií u dětí s dysfagií pro
 ## Jak začít s Novafonem
 
 V České republice je Novafon dostupný prostřednictvím e-shopu [novafon.cz](https://www.novafon.cz/), který je provozován společností Juris Active, s.r.o., stejně jako například e-shop [kousak.com](https://www.kousak.com/). Na českém trhu je dostupných několik variant přístroje, které se liší designem a výbavou. Pro použití v orofaciální oblasti se obvykle využívá základní model (klasický bílý Novafon). Součástí balení jsou dva základní nástavce, které lze doplnit řadou dalších nástavců dle doporučení logopeda. Nástavce lze dokupovat na již uvedeném e-shopu.
+
+![](/Users/mholec/ADNP-Docs/obr/novafon.jpg)
 
 Některá zdravotnická pracoviště Novafon využívají v klinické praxi již několik let a v poslední době se objevují také specializované kurzy a workshopy určené zdravotnickým odborníkům i pečujícím osobám. Novafon lze individuálně kombinovat i s dalšími přístupy, například v multisenzorickém prostředí Snoezelen. Pro zahájení práce s Novafonem lze vyhledat podporu zkušeného ergoterapeuta či klinického logopeda, případně využít nabídku online konzultací poskytovaných různými centry.
 
