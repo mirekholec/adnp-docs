@@ -28,9 +28,7 @@ V praxi se pro zlepšení hypotonie uplatňuje multidisciplinární péče, kter
 - doplňující metody: hipoterapie, plavání, snoezelen
 - využití rehabilitačních a speciálních pomůcek
 
-Tento článek se zaměřuje především na důsledky hypotonie v oblasti obličeje. Aby se mohla řeč vyvíjet, je potřeba začít budovat základní stavební kámen - motoriku, kam se řadí i oromotorika, kterou lze posílit různými speciálními pomůckami. Jednou z těchto pomůcek je Novafon.
-
-
+Tento článek se zaměřuje především na důsledky hypotonie v oblasti obličeje. Pro rozvoj řeči je nezbytné budovat motorické dovednosti, zejména oromotoriku, kterou lze podpořit různými speciálními pomůckami. Jednou z nich je i Novafon.
 
 ## Novafon
 
