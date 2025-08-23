@@ -1,18 +1,19 @@
 ---
 title: "Podpora orofaciální motoriky pomocí vibrační stimulace s Novafon"
 author: "Miroslav Holec"
-date: "2025-08-21"
+date: "2025-08-23"
 category: "clanek"
 css: ""
 description: ""
-preview: true
+preview: false,
+reviewer: "Eliška Míčová"
 ---
 
-Přibližně 80 % pacientů s ADNP syndromem trpí centrální hypotonií.[^https://zenodo.org/records/15105491] Příčinou centrální hypotonie je narušená funkce centrálního nervového systému, zejména oblastí mozku a míchy, které řídí svalové napětí a koordinaci pohybů. První projevy lze často pozorovat již v kojeneckém věku. [^https://www.ncbi.nlm.nih.gov/books/NBK562209]
+Přibližně 80 % pacientů s ADNP syndromem trpí centrální hypotonií.[^https://doi.org/10.1016/j.biopsych.2018.02.1173] Příčinou centrální hypotonie je narušená funkce centrálního nervového systému, zejména oblastí mozku a míchy, které řídí svalové napětí a koordinaci pohybů. Ačkoli hypotonie může mít prenatální, perinatální i postnatální příčiny, v případě ADNP syndromu se jedná převážně o geneticky podmíněnou centrální poruchu, jejíž první projevy lze často pozorovat již v kojeneckém věku. [^https://www.ncbi.nlm.nih.gov/books/NBK562209]
 
-Hypotonie se projevuje slabým držením těla, omezenou stabilitou při sedu či stání, nekoordinovanou a méně jistou chůzí, ale také obtížemi při polykání v důsledku oslabení orofaciální oblasti. U některých dětí jsou přítomny i potíže s jemnou i hrubou motorikou, opožděný motorický vývoj, zvýšená únava při fyzické aktivitě a omezená schopnost provádět složitější pohyby vyžadující přesnou koordinaci. [^https://www.ncbi.nlm.nih.gov/books/NBK562209]
+Hypotonie se projevuje slabým držením těla, omezenou stabilitou při sedu či stání a nekoordinovanou, méně jistou chůzí. V důsledku omezené koordinace mají děti výrazné obtíže v oblasti sebeobsluhy a jsou ve větší míře závislé na pomoci pečujících osob. U některých dětí se vyskytují potíže s jemnou i hrubou motorikou, zvýšená únava při fyzické aktivitě a snížená schopnost provádět pohyby vyžadující přesnou koordinaci. [^https://www.aacpdm.org/publications/care-pathways/central-hypotonia]
 
-Prostředí, ve kterém se děti pohybují se musí bezpečně upravit, jelikož jejich chůze bývá nejistá a dochází častěji k pádům. V důsledku omezené koordinace mají děti výrazné obtíže v oblasti sebeobsluhy a jsou ve větší míře závislé na pomoci pečujících osob. Oslabené orofaciální svalstvo vede k zvýšené salivaci a může způsobovat potíže při příjmu potravy od obtížného uchopení a udržení lžičky až po poruchy žvýkání a polykání jídla. Svalová nedostatečnost v oblasti obličeje zároveň negativně ovlivňuje i vývoj řečových funkcí.
+Hypotonie se projevuje také obtížemi při polykání v důsledku oslabení orofaciální oblasti. Oslabené orofaciální svalstvo vede ke zvýšené salivaci a může též způsobovat potíže při příjmu potravy od obtížného uchopení a udržení lžičky až po poruchy žvýkání a polykání jídla. Svalová nedostatečnost v oblasti obličeje často vede i k opoždění či narušení vývoje řeči. [^https://my.clevelandclinic.org/health/diseases/22223-hypotonia-in-babies] 
 
 
 
@@ -26,7 +27,7 @@ V praxi se pro zlepšení hypotonie uplatňuje multidisciplinární péče, kter
 - doplňující metody: hipoterapie, plavání, snoezelen
 - využití rehabilitačních a speciálních pomůcek
 
-V tomto článku se zaměříme především na důsledky hypotonie v oblasti obličeje. 
+Tento článek se zaměřuje především na důsledky hypotonie v oblasti obličeje. Aby se mohla řeč vyvíjet, je potřeba začít budovat základní stavební kámen - motoriku, kam se řadí i oromotorika, kterou lze posílit různými speciálními pomůckami. Jednou z těchto pomůcek je Novafon.
 
 
 
@@ -48,9 +49,9 @@ Studie z konce roku 2024 prokázala účinnost terapií u dětí s dysfagií pro
 
 V České republice je Novafon dostupný prostřednictvím e-shopu [novafon.cz](https://www.novafon.cz/), který je provozován společností Juris Active, s.r.o., stejně jako například e-shop [kousak.com](https://www.kousak.com/). Na českém trhu je dostupných několik variant přístroje, které se liší designem a výbavou. Pro použití v orofaciální oblasti se obvykle využívá základní model (klasický bílý Novafon). Součástí balení jsou dva základní nástavce, které lze doplnit řadou dalších nástavců dle doporučení logopeda. Nástavce lze dokupovat na již uvedeném e-shopu.
 
-Některá zdravotnická pracoviště Novafon využívají v klinické praxi již několik let a v poslední době se objevují také specializované kurzy a workshopy určené zdravotnickým odborníkům i pečujícím osobám. Pro zahájení práce s Novafonem lze vyhledat podporu zkušeného ergoterapeuta či klinického logopeda, případně využít nabídku online konzultací poskytovaných různými centry.
+Některá zdravotnická pracoviště Novafon využívají v klinické praxi již několik let a v poslední době se objevují také specializované kurzy a workshopy určené zdravotnickým odborníkům i pečujícím osobám. Novafon lze individuálně kombinovat i s dalšími přístupy, například v multisenzorickém prostředí Snoezelen. Pro zahájení práce s Novafonem lze vyhledat podporu zkušeného ergoterapeuta či klinického logopeda, případně využít nabídku online konzultací poskytovaných různými centry.
 
-> Doporučení pro práci s Novafone nám poskytla konzultace s logopedem z centra multismyslové terapie, [Kouzelen](https://obchod.kouzelen.cz/konzultace-online/). Díky cenným radám jsme mohli Novafon okamžitě začít používat. Prakticky od začátku vnímáme u syna stimulaci svalů a jejich aktivní zapojení během procedury. Zároveň jsme dostali doporučení na další odborníky pro specializované konzultace. (Miroslav Holec, otec [Lukáška](https://adnpasociace.cz/pribehy/lukasek))
+> Doporučení pro práci s Novafonem jsme získali během konzultace s logopedem z centra multismyslové terapie [Kouzelen](https://obchod.kouzelen.cz/konzultace-online/). Díky cenným radám jsme mohli přístroj okamžitě začít používat. Prakticky od začátku u syna pozorujeme stimulaci svalů a jejich aktivní zapojení během procedury. Zároveň jsme dostali doporučení na další odborníky pro specializované konzultace. (Miroslav Holec, otec [Lukáška](https://adnpasociace.cz/pribehy/lukasek))
 
 Přímo v e-shopu novafon.cz lze dále zakoupit příručku [Tipy a návody pro práci s přístrojem NOVAFON](https://www.novafon.cz/tipy-a-navody-pro-praci-s-pristrojem-novafon--v-nem-jazyce/), která je v německém jazyce a poskytuje základní tipy pro použití Novafone. Příručka se však nevěnuje specifickému použití u dětí ani se hlouběji nezaměřuje na orofaciální stimulaci.
 
