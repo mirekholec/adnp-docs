@@ -32,7 +32,7 @@ Tento článek se zaměřuje především na důsledky hypotonie v oblasti obli�
 
 ## Novafon
 
-Novafon patří mezi speciální pomůcky, které se využívají především v logopedické praxi. Přístroj umožňuje v domácím prostředí provádět vibrační stimulaci svalů a nervových zakončení, čímž může napomoci prokrvení a aktivaci oslabených svalových skupin. V orofaciální oblasti může podpořit funkci rtů, tváří a jazyka a tím vytvářet příznivější podmínky pro rozvoj řeči či zvládání obtíží s polykáním u dětí s hypotonií. [^https://www.novafon.cz/logopedie] 
+Novafon patří mezi speciální pomůcky, které se využívají především v logopedické praxi. Přístroj umožňuje v domácím prostředí provádět vibrační stimulaci svalů a nervových zakončení, čímž může napomoci prokrvení a aktivaci oslabených svalových skupin. Oproti jiný pomůckám dokáže Novafon stimulovat tkáně až do hloubky 6 cm. V orofaciální oblasti může podpořit funkci rtů, tváří a jazyka a tím vytvářet příznivější podmínky pro rozvoj řeči či zvládání obtíží s polykáním u dětí s hypotonií. [^https://www.novafon.cz/logopedie] 
 
 Pro využití Novafonu u dětí s centrální hypotonií zatím neexistují klinické studie. Účinky vycházejí především z klinické praxe logopedů a z individuálních zkušeností.
 
