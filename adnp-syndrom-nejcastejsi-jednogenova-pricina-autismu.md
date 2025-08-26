@@ -20,7 +20,12 @@ ADOS-2 zahrnuje **strukturované pozorování dítěte v kontrolovaných situac�
 
 V mezinárodním kontextu je stanovení diagnózy PAS formálně opřeno o kritéria **DSM-5** (Diagnostic and Statistical Manual of Mental Disorders, 5. vydání), zatímco v evropské praxi se často využívá klasifikace **MKN-10** či **MKN-11** (Mezinárodní klasifikace nemocí). 
 
-V České republice se v klinické praxi dosud používá **MKN-10**, která pracuje s dnes již zastaralým členěním PAS na jednotlivé „podtypy“, jako je například dětský autismus, atypický autismus, Aspergerův syndrom apod. V současném vědeckém diskurzu již převažuje **přístup podle MKN-11 a DSM-5, který považuje PAS za jednotnou diagnózu s různými úrovněmi podpory a bez dělení na podtypy**. [^https://autismport.cz/o-autistickem-spektru/detail/porucha-autistickeho-spektra-dle-mezinarodni-klasifikace-nemoci-mkn-11]
+V České republice se v klinické praxi dosud používá **MKN-10**, která pracuje s dnes již zastaralým členěním PAS na jednotlivé „podtypy“, jako je například dětský autismus, atypický autismus, Aspergerův syndrom apod. V současném vědeckém diskurzu již převažuje **přístup podle MKN-11 a DSM-5, který považuje PAS za jednotnou diagnózu s různými úrovněmi podpory**.  [^https://autismport.cz/o-autistickem-spektru/detail/porucha-autistickeho-spektra-dle-mezinarodni-klasifikace-nemoci-mkn-11]
+
+Zatímco starší klasifikace vycházely z tzv. **"autistické triády"** (porucha sociální interakce, porucha komunikace a omezené/stereotypní vzorce chování), novější manuály (DSM-5, MKN-11) již používají **"autistickou dyádu"**[^https://doi.org/10.1007/978-3-030-27275-3_7], která zahrnuje:
+
+- deficity v sociální komunikaci a sociální interakci
+- omezené, repetitivní a rigidní vzorce chování, zájmů nebo aktivit
 
 Diagnóza je vždy do určité míry ovlivněna mírou odbornosti, zkušenostmi a přístupem konkrétního vyšetřujícího specialisty. **V praxi může docházet k různým diagnostickým závěrům, především u dětí s atypickými projevy nebo hraniční symptomatikou.**
 
