@@ -12,13 +12,13 @@ V České republice je k začátku roku 2025 diagnostikováno 5 dětí s ADNP sy
 
 ## ADNP syndrom
 
-ADNP syndrom (dříve též Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené mutací v genu ADNP. Ve většině případů vzniká de novo mutací, tedy nově u daného jedince, bez předchozího výskytu v rodině.[^https://doi.org/10.1038/ng.2899] V současné době je známo několik desítek patogenních mutací, které lze rozdělit do dvou epigenetických profilů[^https://doi.org/10.1101/2020.04.01.014902]. 
+ADNP syndrom (oficiálně Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené patogenní variantou v genu ADNP. Ve většině případů se jedná o de-novo mutacu, tedy nově u daného jedince, bez předchozího výskytu v rodině.[^https://doi.org/10.1038/ng.2899] V současné době je známo několik desítek mutací, které lze rozdělit do dvou epigenetických profilů[^https://doi.org/10.1101/2020.04.01.014902]. 
 
-Diagnostika ADNP syndromu vyžaduje genetické testování, konkrétně cílené sekvenování ADNP genu. Alternativně může diagnózu potvrdit metylační analýza, která identifikuje specifickou epigenetickou stopu spojenou s ADNP syndromem. Toto vyšetření zatím není v České republice standardně dostupné.
+Většina případů ADNP syndromu je odhalena v rámci celoexomového sekvenování DNA. Alternativně může diagnózu potvrdit metylační analýza, která identifikuje specifickou epigenetickou stopu spojenou s ADNP syndromem. Toto vyšetření zatím není v České republice standardně dostupné.
 
 > Screening ADNP syndromu v ČR zatím nefunguje efektivně, což vede k výraznému poddiagnostikování. 
 
-Na základě odhadované prevalence tvoří dosud diagnostikované případy pravděpodobně jen 4 % všech pacientů, což znamená, že většina dětí i dospělých s tímto syndromem zůstává nediagnostikována.
+Na základě odhadované prevalence tvoří dosud diagnostikované případy pravděpodobně jen 4 % všech pacientů, což znamená, že většina dětí i dospělých s tímto syndromem zůstává ve společnosti nediagnostikována.
 
 - [Co je ADNP syndrom](https://adnpasociace.cz/adnp-syndrom)
 - [Projevy ADNP syndromu](https://adnpasociace.cz/adnp-syndrom/projevy)
@@ -26,11 +26,11 @@ Na základě odhadované prevalence tvoří dosud diagnostikované případy pra
 
 ## Léčba
 
-Kauzální léčba syndromu neexistuje, ale do klinického hodnocení vstupuje nadějný lék Davunetide – syntetická varianta peptidu NAP odvozeného z proteinu ADNP. Tento peptid má klíčovou neuroprotektivní roli a zajišťuje ochranu neuronů před neurodegenerativními procesy.[^https://doi.org/10.3389/fneur.2020.608444] Výzkum probíhá více než 15 let a NAP již prokázal svou bezpečnost u několika set pacientů s progresivní supranukleární obrnou.[^https://doi.org/10.1016/s1474-4422(14)70088-2] Výzkum se nejprve zaměřoval na neurodegenerativní onemocnění, ale u starších pacientů se již nepodařilo zvrátit neurodegenerativní procesy, rozsáhlé taupatie, které byly též popsány během pitvy malého chlapce s ADNP syndromem[^https://doi.org/10.1038/s41398-020-00904-4]. 
+Kauzální léčba syndromu neexistuje, ale do klinického hodnocení vstupuje nadějný lék Davunetide. Jedná se o syntetickou variantu peptidu NAP odvozeného z proteinu ADNP. Tento peptid má klíčovou neuroprotektivní roli a zajišťuje ochranu neuronů před neurodegenerativními procesy.[^https://doi.org/10.3389/fneur.2020.608444] Výzkum probíhá více než 15 let a NAP již prokázal svou bezpečnost u několika set pacientů s progresivní supranukleární obrnou.[^https://doi.org/10.1016/s1474-4422(14)70088-2] Výzkum se nejprve zaměřoval na neurodegenerativní onemocnění, ale u starších pacientů se již nepodařilo zvrátit neurodegenerativní procesy, rozsáhlé taupatie, které byly též popsány během pitvy malého chlapce s ADNP syndromem[^https://doi.org/10.1038/s41398-020-00904-4]. 
 
-Preklinické studie navržené pro léčbu dětí s ADNP syndromem prokázaly, že dodáním funkčního peptidu NAP došlo ke stabilizaci neuronů a k obnově jejich ochrany. Prokázalo se zlepšení paměti, kognitivních schopností a dále byly zaznamenány dalšı́ pozitivnı́ účinky. Patřı́ mezi ně zlepšenı́ hojenı́ ran, snı́ženı́ kožnı́ch problémů a u některých jedinců i normalizace tloušťky kůže, která bývá u dětı́ s ADNP syndromem tenčı́. Dvě studie dále naznačily, že lék může pomoci zlepšit svalovou slabost. [^https://doi.org/10.1016/j.addr.2025.115573]
+Preklinické studie navržené pro léčbu dětí s ADNP syndromem prokázaly, že dodáním funkčního peptidu NAP došlo ke stabilizaci neuronů a k obnově jejich ochrany. Prokázalo se zlepšení paměti, kognitivních schopností a dále byly zaznamenány dalšı́ pozitivnı́ účinky, jako zlepšené hojenı́ ran, snı́ženı́ kožnı́ch problémů a u některých jedinců i normalizace tloušťky kůže, která je u mnoha dětı́ s ADNP syndromem tenčı́. Dvě studie dále naznačily, že lék může pomoci zlepšit hypotonii. [^https://doi.org/10.1016/j.addr.2025.115573]
 
-Je důležité zdůraznit, že zatímco u neurodegenerativních poruch se lék používal ke zvrácení procesu tauopatie, u dětí s ADNP syndromem lék přímo kompenzuje činnost mutovaného ADNP proteinu. Tento přímý mechanismus náhrady nebo podpory funkce ADNP proteinu má potenciál být účinnější v kontextu ADNP syndromu.
+Je důležité zdůraznit, že zatímco u neurodegenerativních poruch se lék používal ke zvrácení procesu tauopatie, u dětí s ADNP syndromem lék přímo kompenzuje činnost mutovaného ADNP proteinu. Tento přímý mechanismus náhrady nebo podpory funkce ADNP proteinu má potenciál být v kontextu ADNP syndromu účinnější.
 
 - [EMA, orphan designation](https://ec.europa.eu/health/documents/community-register/html/o3007.htm)
 
