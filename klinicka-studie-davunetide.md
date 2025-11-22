@@ -8,11 +8,11 @@ css: ""
 description: "Přinášíme základní informace o klinické studii léku Davunetide a odpovídáme na nejčastější otázky spojené s ADNP syndromem a jeho léčbou."
 ---
 
-V České republice je k začátku roku 2025 diagnostikováno 5 dětí s ADNP syndromem, které jsou zároveň členem ADNP asociace.[^https://adnpasociace.cz/pribehy] Syndrom doprovází lehké až těžké mentální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. [^https://adnpasociace.cz/adnp-syndrom/projevy]
+V České republice je k začátku roku 2025 diagnostikováno 5 dětí s ADNP syndromem, které jsou zároveň členem ADNP asociace.[^https://adnpasociace.cz/pribehy] Syndrom doprovází lehké až těžké intelektuální postižení, poruchy autistického spektra a svalová slabost, která bývá patrná již v kojeneckém věku. Řeč bývá velmi opožděná nebo zcela chybí. Naprostá většina dětí s ADNP syndromem má mnoho dalších přidružených potíží, které se u každého projevují v různé míře. [^https://adnpasociace.cz/adnp-syndrom/projevy]
 
 ## ADNP syndrom
 
-ADNP syndrom (oficiálně Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené patogenní variantou v genu ADNP. Ve většině případů se jedná o de-novo mutacu, tedy nově u daného jedince, bez předchozího výskytu v rodině.[^https://doi.org/10.1038/ng.2899] V současné době je známo několik desítek mutací, které lze rozdělit do dvou epigenetických profilů[^https://doi.org/10.1101/2020.04.01.014902]. 
+ADNP syndrom (oficiálně Helsmoortel-Van der Aa syndrom) je vzácné genetické onemocnění způsobené patogenní variantou v genu ADNP. Ve většině případů se jedná o de-novo variantu, tedy nově u daného jedince, bez předchozího výskytu v rodině.[^https://doi.org/10.1038/ng.2899] V současné době je známo několik desítek mutací, které lze rozdělit do dvou epigenetických profilů[^https://doi.org/10.1101/2020.04.01.014902]. 
 
 Většina případů ADNP syndromu je odhalena v rámci celoexomového sekvenování DNA. Alternativně může diagnózu potvrdit metylační analýza, která identifikuje specifickou epigenetickou stopu spojenou s ADNP syndromem. Toto vyšetření zatím není v České republice standardně dostupné.
 
@@ -24,7 +24,7 @@ Na základě odhadované prevalence tvoří dosud diagnostikované případy pra
 - [Projevy ADNP syndromu](https://adnpasociace.cz/adnp-syndrom/projevy)
 - [Terapie a symptomatická léčba](https://adnpasociace.cz/adnp-syndrom/terapie-lecba)
 
-## Léčba
+## Terapie
 
 Kauzální léčba syndromu neexistuje, ale do klinického hodnocení vstupuje nadějný lék Davunetide. Jedná se o syntetickou variantu peptidu NAP odvozeného z proteinu ADNP. Tento peptid má klíčovou neuroprotektivní roli a zajišťuje ochranu neuronů před neurodegenerativními procesy.[^https://doi.org/10.3389/fneur.2020.608444] Výzkum probíhá více než 15 let a NAP již prokázal svou bezpečnost u několika set pacientů s progresivní supranukleární obrnou.[^https://doi.org/10.1016/s1474-4422(14)70088-2] Výzkum se nejprve zaměřoval na neurodegenerativní onemocnění, ale u starších pacientů se již nepodařilo zvrátit neurodegenerativní procesy, rozsáhlé taupatie, které byly též popsány během pitvy malého chlapce s ADNP syndromem[^https://doi.org/10.1038/s41398-020-00904-4]. 
 
@@ -92,7 +92,7 @@ NAP peptid hraje klíčovou roli v ochraně neuronů a stabilizaci mikrotubulů,
 
 ### Jak se liší epigenetické profily mutací ADNP a jaký mají klinický dopad na pacienty?
 
-V rámci výzkumu byly identifikovány dva epigenetické profily ADNP syndromu: centrální a terminální. Centrální episignatura je spojena se závažnější hypotonií, výraznějšími projevy poruchy autistického spektra a často i s hlubším mentálním postižením. Naproti tomu terminální episignatura bývá spojována s mírnější formou syndromu, ačkoli klinické projevy mohou být individuálně variabilní.
+V rámci výzkumu byly identifikovány dva epigenetické profily ADNP syndromu: centrální a terminální. Centrální episignatura je spojena se závažnější hypotonií, výraznějšími projevy poruchy autistického spektra a často i s hlubším intelektuálním postižením. Naproti tomu terminální episignatura bývá spojována s mírnější formou syndromu, ačkoli klinické projevy mohou být individuálně variabilní.
 
 ### Jaké jsou hlavní bariéry pro screening ADNP syndromu v ČR a jak by se daly překonat?
 
