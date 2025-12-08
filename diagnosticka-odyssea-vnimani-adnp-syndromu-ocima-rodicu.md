@@ -9,7 +9,7 @@ description: "Díky pokroku v genetice se zkracuje doba potřebná k diagnóze A
 
 Příběhy pacientů se vzácným onemocněním často začínají nenápadnými, nespecifickými příznaky, které vedou k opakovaným návštěvám různých specialistů a dlouhému období nejistoty. Podle organizace EURORDIS trvá tzv. diagnostická odyssea – tedy cesta od prvních projevů až po stanovení konečné diagnózy – v průměru 5,4 roku u žen a 3,7 roku u mužů. [^https://www.eurordis.org/publications/rb-diagnosis-odyssey/]
 
-**ADNP syndrom je vzácné neurovývojové onemocnění způsobené mutací v genu ADNP.** Patří mezi diagnózy, které jsou i přes závažnost svých projevů výrazně poddiagnostikovány. Gen ADNP kóduje protein nezbytný pro regulaci genové exprese a hraje klíčovou roli ve vývoji mozku. Porucha jeho funkce má zásadní dopad na neurologický vývoj dítěte. [^https://doi.org/10.1038/ng.2899]
+**ADNP syndrom je vzácné neurovývojové onemocnění způsobené patogenní variantou v genu ADNP.** Patří mezi diagnózy, které jsou i přes závažnost svých projevů výrazně poddiagnostikovány. Gen ADNP kóduje protein nezbytný pro regulaci genové exprese a hraje klíčovou roli ve vývoji mozku. Porucha jeho funkce má zásadní dopad na neurologický vývoj dítěte. [^https://doi.org/10.1038/ng.2899]
 
 Tento článek se zaměřuje na diagnostický proces a na vnímání ADNP syndromu z pohledu pečujících osob.
 
@@ -45,7 +45,7 @@ Mezi dalšími faktory, které iniciovaly genetické vyšetření byla asfyxie, 
 
 ## Závěr
 
-Přestože je ADNP syndrom stále relativně nově popsanou genetickou poruchou, doba potřebná ke stanovení diagnózy se od roku 2020 zjevně výrazně zkrátila. Klíčovým faktorem je pravděpodobně rozvoj genetických technologií, zejména sekvenace nové generace (NGS), a zároveň postupné snižování nákladů na testování genetických panelů a celogenomové a exomové sekvenace (WES). Významnou roli sehrává i rostoucí povědomí o vzácných genetických onemocněních mezi lékaři primární péče.
+Přestože je ADNP syndrom stále relativně nově popsanou genetickou poruchou, doba potřebná ke stanovení diagnózy se od roku 2020 výrazně zkrátila. Klíčovým faktorem je pravděpodobně rozvoj genetických technologií, zejména sekvenace nové generace (NGS), a zároveň postupné snižování nákladů na testování genetických panelů a celoexomové sekvenace (WES). Významnou roli sehrává i rostoucí povědomí o vzácných genetických onemocněních mezi lékaři primární péče.
 
 V evropském kontextu se ukazuje, že celkové opoždění vývoje (motorika o řeč), je samo o sobě často dostatečným indikačním kritériem pro genetické vyšetření. Zároveň si rodiče starších dětí s odstupem přestávají spojovat opoždění vývoje jako hlavní charakteristiku ADNP syndromu a častěji si všímají jiných odlišností – například ve tváři dítěte oproti jeho vrstevníkům.
 

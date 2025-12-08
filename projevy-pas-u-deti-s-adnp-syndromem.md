@@ -7,7 +7,7 @@ css: ""
 description: "Dle jedné z prvních studií zaměřených na poruchy autistického spektra u dětí s ADNP syndromem se PAS objevuje u dvou třetin jedinců. Chování a obtíže dětí s ADNP syndromem se však liší od jedinců s PAS bez známé genetické příčiny."
 ---
 
-Jedna z prvních studií zaměřených na projevy patogenních mutací genu ADNP identifikovala u skupiny 78 jedinců znaky poruchy autistického spektra (PAS). Výzkumy konzistentně potvrzují, že poruchy autistického spektra se vyskytují u více než dvou třetin osob s ADNP syndromem. Behaviorální fenotyp a neuropsychologický profil dětí s ADNP syndromem se však v některých klíčových aspektech odlišuje od typického obrazu PAS.[^https://doi.org/10.1002/aur.1980]
+Jedna z prvních studií zaměřených na projevy patogenních variant v genu ADNP identifikovala u skupiny 78 jedinců znaky poruchy autistického spektra (PAS). Výzkumy aktuálně potvrzují, že poruchy autistického spektra se vyskytují u více než 90% osob s ADNP syndromem [^https://www.ncbi.nlm.nih.gov/books/NBK355518/]. Behaviorální fenotyp a neuropsychologický profil dětí s ADNP syndromem se však v některých klíčových aspektech odlišuje od typického obrazu PAS.[^https://doi.org/10.1002/aur.1980]
 
 U dětí s ADNP syndromem je zvláště nápadné stereotypní chování a kvalitativní narušení sociální interakce. S pokračujícím výzkumem a hlubším pochopením neurobiologických mechanismů ADNP syndromu se zdá, že **mnoho rysů přisuzovaných PAS má spíše přímou příčinnou souvislost s dysfunkcí genu ADNP**. Zejména deficity v oblasti učení a paměti, které jsou primárním důsledkem narušené funkce ADNP proteinu, významně ovlivňují úroveň sociálních dovedností a verbální komunikace u těchto pacientů.
 

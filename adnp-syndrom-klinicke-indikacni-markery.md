@@ -8,7 +8,7 @@ description: "Současné poznatky o genetickém pozadí ADNP syndromu v odborné
 doi: "https://doi.org/10.5281/zenodo.15105491"
 ---
 
-ADNP syndrom (ORPHA: 404448, OMIM: 615873) představuje vzácné neurovývojové onemocnění způsobené heterozygotními mutacemi v genu ADNP na chromozomu 20q13.13. Navzdory tomu, že jde o nejčastější známou monogenní příčinu poruch autistického spektra s odhadovanou prevalencí 0,17 % všech PAS[^https://doi.org/10.1038/ng.2899], zůstává v klinické praxi značně poddiagnostikován. Definitivní potvrzení diagnózy ADNP syndromu je založeno na identifikaci patogenních variant v genu ADNP prostřednictvím sekvenačních metod, nejčastěji celoexomového sekvenování nebo cíleného sekvenování genového panelu.
+Helsmoortel-Van Der Aa syndrom (HVDAS), jinak též ADNP syndrom (ORPHA: 404448, OMIM: 615873) představuje vzácné neurovývojové onemocnění způsobené heterozygotními mutacemi v genu ADNP na chromozomu 20q13.13. Navzdory tomu, že jde o nejčastější známou monogenní příčinu poruch autistického spektra s odhadovanou prevalencí 0,17 % všech PAS[^https://doi.org/10.1038/ng.2899], zůstává v klinické praxi značně poddiagnostikován. Definitivní potvrzení diagnózy ADNP syndromu je založeno na identifikaci patogenních variant v genu ADNP prostřednictvím sekvenačních metod, nejčastěji celoexomového sekvenování nebo cíleného sekvenování genového panelu.
 
 > Tato práce syntetizuje současné poznatky o genetickém pozadí ADNP syndromu a zaměřuje se na identifikaci specifických klinických markerů, které by měly vést lékaře k indikaci cíleného genetického testování na přítomnost mutací v genu ADNP. 
 
@@ -22,7 +22,7 @@ Analýza vychází z dat čtyř studií publikovaných v letech 2014 až 2020, k
 
 ## Diferenciální diagnostika u pacientů v ČR
 
-Retrospektivní analýza zdravotní dokumentace pacientů s ADNP syndromem v České republice se zaměřila na molekulárně-genetická vyšetření provedená před stanovením finální diagnózy. **Ve čtyřech z pěti případů bylo původně vysloveno podezření na Angelmanův syndrom**; u těchto pacientů byla následně konečná diagnóza potvrzena metodou sekvenování celého exomu (WES).
+Retrospektivní analýza zdravotní dokumentace pacientů s ADNP syndromem v České republice se zaměřila na molekulárně-genetická vyšetření provedená před stanovením finální diagnózy. **Ve čtyřech z pěti případů bylo původně vysloveno podezření na Angelmanův syndrom a provedeno molekulárně-genetické vyšetření**; u těchto pacientů byla následně konečná diagnóza potvrzena metodou sekvenování celého exomu (WES).
 
 ![](obr/kim-2025-adnp-diferencialni-diagnostika-cr.jpg)
 

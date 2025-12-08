@@ -27,7 +27,7 @@ Zatímco starší klasifikace vycházely z tzv. **"autistické triády"** (poruc
 - deficity v sociální komunikaci a sociální interakci
 - omezené, repetitivní a rigidní vzorce chování, zájmů nebo aktivit
 
-Diagnóza je vždy do určité míry ovlivněna mírou odbornosti, zkušenostmi a přístupem konkrétního vyšetřujícího specialisty. **V praxi může docházet k různým diagnostickým závěrům, především u dětí s atypickými projevy nebo hraniční symptomatikou.**
+Diagnóza je vždy do určité míry ovlivněna mírou odbornosti, zkušenostmi a přístupem konkrétního vyšetřujícího specialisty. **V praxi může docházet k odlišným diagnostickým závěrům, především u dětí s atypickými projevy nebo hraniční symptomatikou.**
 
 <div class="video">
 <iframe src="https://www.youtube.com/embed/XQaaj-9xLmQ?si=jqizqWeP0IMDTLtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
@@ -35,23 +35,23 @@ Diagnóza je vždy do určité míry ovlivněna mírou odbornosti, zkušenostmi 
 
 ## Genetické příčiny autismu
 
-PAS může být způsobena **jak dědičnými, tak de novo genovými variacemi**. V posledním desetiletí byly identifikovány stovky genů, které přispívají k závažným deficitům v komunikaci a sociálním chování s nimž se pacienti často potýkají. Tyto geny však tvoří pouze 10-20 % případů PAS a pacienti s podobnými patogenními variantami mohou být diagnostikováni na velmi rozdílných úrovních spektra. [^https://doi.org/10.3389/fncel.2019.00385]
+PAS může být způsobena **jak dědičnými, tak de novo genovými variantami**. V posledním desetiletí byly identifikovány stovky genů, které přispívají k závažným deficitům v komunikaci a sociálním chování s nimž se pacienti často potýkají. Tyto geny však tvoří pouze 10-20 % případů PAS a pacienti s podobnými patogenními variantami mohou být diagnostikováni na velmi rozdílných úrovních spektra. [^https://doi.org/10.3389/fncel.2019.00385]
 
 **Projevy poruch autistického spektra se mohou u jednotlivců výrazně lišit.** U některých známých genetických syndromů spojených s PAS lze sice pozorovat určité charakteristické klinické vzorce, ale i v rámci stejné genetické příčiny se může fenotyp výrazně lišit. Typickým příkladem je **ADNP syndrom, považovaný za jednu z nejčastějších jednogenových příčin PAS**, který tuto variabilitu projevů mezi jednotlivci dobře ilustruje. [^https://doi.org/10.1038/ng.2899]
 
-Mezi další monogenní syndromy spojené s PAS patří například Syndrom fragilního X (FMR1), Rettův syndrom (MECP2 u > 95% případů) nebo Angelmanův syndrom (UBE3A). Kromě monogenních příčin jsou s PAS spojeny také mikrodeleční a mikroduplikační syndromy, které postihují větší úseky DNA. [^https://doi.org/10.3389/fncel.2019.00385] **Žádný z těchto syndromů nelze spolehlivě určit pouze na základě klinického pozorování.** 
+Mezi další monogenní syndromy spojené s PAS patří například Syndrom fragilního X (FMR1), Syndrom Phelanové a McDermidové (SHANK3) nebo Angelmanův syndrom (UBE3A). Kromě monogenních příčin jsou s PAS spojeny také mikrodeleční a mikroduplikační syndromy, které postihují větší úseky DNA. [^https://doi.org/10.3389/fncel.2019.00385] **Žádný z těchto syndromů nelze spolehlivě určit pouze na základě klinického pozorování.** 
 
 Diagnostická odyssea u dětí se vzácnými genetickými onemocněními často trvá i několik let, protože se v klinické praxi uplatňuje postupný diagnostický přístup. Ten zpravidla začíná chromozomální microarray analýzou, po které následuje cílené testování jednotlivých genů podle klinických projevů dítěte. Vzhledem k velkému množství geneticky podmíněných poruch je však úspěšnost tohoto přístupu omezená.
 
 **Například čtyřem z pěti pacientů s diagnostikovaným ADNP syndromem v České republice bylo původně (mylně) vysloveno podezření na Angelmanův syndrom.** [^https://adnpasociace.cz/clanky/adnp-syndrom-klinicke-indikacni-markery]
 
-Vyšší úspěšnost má **metoda sekvenování nové generace (NGS)**, zejména při použití tzv. virtuálních panelů genů spojených s PAS. Pokud ani tato metoda nevede k odhalení příčiny, je možné přistoupit k **sekvenování celého exomu (WES) nebo celého genomu (WGS)**. Tyto metody jsou však finančně nákladné a v českém prostředí se nejčastěji indikují v rámci výzkumných projektů nebo u případů se závažnějšími symptomy. **S dalším poklesem cen genetického testování lze očekávat širší dostupnost těchto metod i v běžné klinické praxi.**
+Vyšší úspěšnost má **metoda sekvenování nové generace (NGS)**, zejména při použití tzv. virtuálních panelů genů spojených s PAS. Pokud ani tato metoda nevede k odhalení příčiny, je možné přistoupit k **sekvenování celého exomu (WES) nebo celého genomu (WGS)**. Tyto metody jsou však finančně nákladné a v českém prostředí se nejčastěji indikují v rámci výzkumných projektů nebo u případů se závažnějšími symptomy. **S dalším poklesem cen genetického testování lze očekávat širší dostupnost těchto metod i v běžné klinické praxi.** Některá zdravotní zařízení v ČR postupně zařazují WES mezi standardní genetické vyšetření.
 
 ## Zmírnění PAS změnou mechanismů u genetických syndromů
 
 Jak již bylo uvedeno, **PAS představují diagnostickou kategorii založenou na souboru klinických projevů**, nikoliv specifickou nemoc. Za určitých okolností je proto možné, že jedinec přestane splňovat diagnostická kritéria PAS, například v důsledku změny vývojového profilu nebo cílené behaviorální intervence.
 
-Při studiu fenotypu PAS u dětí s ADNP syndromem bylo zjištěno, že některé projevy odpovídající diagnóze PAS mohou být přímo důsledkem patogenní varianty genu ADNP a následně změněné funkce ADNP proteinu. [^https://doi.org/10.1002/aur.1980]
+Při studiu fenotypu PAS u dětí s ADNP syndromem bylo zjištěno, že některé projevy odpovídající diagnóze PAS mohou být přímo důsledkem patogenní varianty v genu ADNP a následně změněné funkce ADNP proteinu. [^https://doi.org/10.1002/aur.1980]
 
 Toto zjištění mění pohled na léčbu geneticky podmíněných forem PAS. U ADNP syndromu výzkumy ukazují, že peptid NAP (davunetid), derivát ADNP proteinu, dokáže kompenzovat jeho narušenou funkci. NAP vykazuje neuroprotektivní účinky a je schopen procházet hematoencefalickou bariérou, což z něj činí slibného kandidáta pro cílenou léčbu. Preklinické studie na myších modelech prokázaly, že NAP dokáže obnovit synaptickou plasticitu a zlepšit kognitivní i sociálně-behaviorální funkce. [^https://doi.org/10.3389/fneur.2020.608444]
 
@@ -61,7 +61,7 @@ Podobné výzkumy probíhají i u dalších genetických syndromů spojených s 
 
 Popsané přístupy ilustrují posun v chápání PAS od tradičního vnímání autismu jako trvalého a neměnného stavu k porozumění, že **u některých geneticky podmíněných forem PAS jde o soubor symptomů s konkrétní biologickou etiologií, která může být cílem léčebného zásahu**. 
 
-**Děti s diagnostikovaným ADNP syndromem budou mít již letos možnost vstoupit do klinického hodnocení nového léku.** Desítky dalších dětí, které nebyly geneticky vyšetřeny nebo nebyla diagnóza dosud odhalena, tuto šanci nedostanou. [^https://adnpasociace.cz/clanky/klinicka-studie-davunetide]
+**ADNP asociace usiluje, aby děti s diagnostikovaným ADNP syndromem mohli vstoupit do klinického hodnocení nového léku.** Desítky dalších dětí, které nebyly geneticky vyšetřeny nebo nebyla diagnóza dosud odhalena, tuto šanci nedostanou. [^https://adnpasociace.cz/clanky/klinicka-studie-davunetide]
 
 To zdůrazňuje zásadní význam přesné genetické diagnostiky u dětí s PAS jako klíč k personalizované medicíně založené na biologické příčině, nikoliv pouze na projevech.
 

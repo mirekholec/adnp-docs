@@ -7,4 +7,4 @@ css: ""
 description: ""
 ---
 
-ADNP asociace se oficiálně stala členem organizace [EURORDIS](https://www.eurordis.org), která sdružuje více než 1000 pacientských organizací zaměřených na vzácná onemocnění a zastupuje jejich zájmy na evropské úrovni. Vedle Francie jsme tak druhou organizací zastupujícípacienty s ADNP syndromem.
+ADNP asociace se oficiálně stala členem aliance [EURORDIS](https://www.eurordis.org), která sdružuje více než 1000 pacientských organizací zaměřených na vzácná onemocnění a zastupuje jejich zájmy na evropské úrovni. Vedle Francie jsme tak druhou organizací zastupující pacienty s ADNP syndromem.
