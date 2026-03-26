@@ -18,7 +18,7 @@ V roce 2017 bylo součástí zmíněné skupiny přes 75 rodin, přičemž 54 z 
 
 Statisticky významné rozdíly v rychlosti prořezávání zubů byly zaznamenány i v případech, kdy chrup nebyl prořezán kompletně. Jako ilustrativní příklad lze uvést reprezentativního pacienta, který se dostavil k zubní prohlídce ve věku 13 měsíců s kompletně prořezanými 16 zuby, zatímco jeho dvojče bez diagnostikovaného ADNP syndromu mělo ve stejný den prořezáno pouze 8 zubů. **Studie neprokázala, že by specifický typ mutace v genu ADNP měl vliv na rychlost erupce zubů.** [^https://doi.org/10.1038/tp.2017.27]
 
-![Prořezání zubů u dětí ve 12 měsících](https://adnpasociace.cz/obrazky/adnp/adnp-syndrom-prorezani.zubu.jpg)
+![Prořezání zubů u dětí ve 12 měsících](https://adnpasociace.cz/obrazky/adnp/adnp-syndrom-prorezani-zubu.jpg)
 
 Studie také dokumentovala případy **předčasného prořezání prvních stálých molárů**. První stálý molár byl například zachycen u chlapce ve věku přibližně 4 let. Popsané anomálie jsou typickým příkladem narušení buněčných procesů a regulace genů, které způsobují patogenní mutace v genu ADNP. V tomto případě se zdá, že defektní ADNP protein negativně ovlivňuje regulaci rodiny BMP genů, které mají vliv na časový harmonogram erupce zubů. [^https://doi.org/10.1038/tp.2017.27]
 
